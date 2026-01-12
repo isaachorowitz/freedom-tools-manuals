@@ -1,0 +1,805 @@
+================================================================================
+FREEDOM 18V CORDLESS MINI SAW
+MODEL: FT1003
+INSTRUCTION MANUAL
+================================================================================
+
+Thank you for choosing Freedom Tools!
+
+Please read this manual carefully before using your new mini saw. Keep it 
+handy for future reference.
+
+
+================================================================================
+WHAT'S IN THE BOX
+================================================================================
+
+□ Freedom 18V Cordless Mini Saw (FT1003)
+□ T-Shank Saw Blade
+□ Instruction Manual
+
+NOTE: Battery pack and charger are sold separately.
+
+
+================================================================================
+INTENDED USE
+================================================================================
+
+Your Freedom Cordless Mini Saw is designed for:
+• Cutting wood up to 1" (25mm) thick
+• Cutting steel up to 3/16" (4mm) thick
+• Cutting plastic up to 3/16" (5mm) thick
+• Tree trimming and pruning
+• Cutting PVC pipe
+• Flush cutting against walls and surfaces
+
+This tool is NOT intended for:
+• Cutting masonry, concrete, or stone
+• Cutting materials thicker than specified
+• Any use not described in this manual
+
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+Model Number:                FT1003
+Voltage:                     18V DC
+Battery Type:                Lithium-Ion
+Blade Type:                  T-Shank (universal fit)
+Stroke Rate:                 2,100 strokes per minute
+Stroke Length:               3/4" (19mm)
+
+Maximum Cutting Capacity:
+  • Wood:                    1" (25mm)
+  • Steel:                   3/16" (4mm)
+  • Plastic:                 3/16" (5mm)
+
+Charging Time:               3-5 hours
+Weight:                      Approximately 4 lbs (with battery)
+
+
+================================================================================
+KNOW YOUR MINI SAW - PARTS IDENTIFICATION
+================================================================================
+
+1. Saw Blade (T-Shank)
+2. Blade Clamp Release Lever (tool-free blade changes)
+3. Safety Lock-Off Button
+4. Variable Speed Trigger Switch
+5. Base Plate (shoe)
+6. Battery Pack (18V Li-Ion)
+7. Battery Release Buttons
+8. Motor Ventilation Slots
+9. Rubber Grip Handle
+10. Battery Level Indicator
+
+
+================================================================================
+IMPORTANT SAFETY INFORMATION
+================================================================================
+
+⚠ WARNING: Failure to follow these safety instructions may result in electric 
+shock, fire, serious injury, or death.
+
+SAVE THESE INSTRUCTIONS - Keep this manual in a safe place for future reference.
+
+
+GENERAL POWER TOOL SAFETY
+--------------------------
+
+WORK AREA SAFETY
+• Keep your work area clean and well-lit. Cluttered or dark areas increase the 
+  risk of accidents.
+• DO NOT operate power tools near flammable liquids, gases, or dust. Power 
+  tools create sparks that can ignite fumes or dust.
+• Keep children and bystanders at least 10 feet away while operating this tool.
+
+ELECTRICAL SAFETY
+• Keep the charger away from rain and moisture.
+• Never use the charger if the cord or plug is damaged.
+• Keep the charging cord away from heat, oil, sharp edges, and moving parts.
+• If you must use an extension cord with the charger, use only cords rated for 
+  outdoor use with adequate wire gauge (see chart below).
+• If working in damp locations, use GFCI-protected outlets/circuits.
+
+PERSONAL SAFETY
+• Stay alert. Don't use power tools when you're tired or under the influence 
+  of drugs, alcohol, or medication.
+• Always wear safety glasses or goggles and a dust mask (or respirator) when cutting.
+• Wear hearing protection - this saw can be loud during operation.
+• Prevent accidental starting. Make sure the trigger is OFF and the lock-off 
+  button is engaged before inserting the battery.
+• Don't overreach. Keep proper footing and balance at all times.
+• Dress appropriately. Don't wear loose clothing or jewelry. Keep long hair 
+  tied back. Loose items can get caught in moving parts.
+• Secure your workpiece with clamps or a vise. Never hold material by hand 
+  while cutting.
+
+TOOL USE AND CARE
+• Use the right tool for the job. Don't force a tool to do something it wasn't 
+  designed for.
+• Don't use the saw if the switch doesn't turn it on and off properly. A tool 
+  that can't be controlled is dangerous and must be repaired.
+• Remove the battery before making adjustments, changing blades, or storing 
+  the tool.
+• Store the saw out of reach of children. Never let anyone unfamiliar with 
+  power tools or these instructions operate this saw.
+• Maintain your tools. Check for damaged parts and any other condition that 
+  might affect operation. Have damaged tools repaired before use.
+• Keep blades sharp and clean. Sharp blades cut better and are safer to use.
+• Use only accessories recommended for this saw. Using the wrong accessories 
+  can be dangerous.
+
+BATTERY SAFETY
+• Only use the Freedom charger that came with this saw. Using the wrong 
+  charger can cause fires.
+• Only use Freedom 18V battery packs with this saw.
+• When the battery is not in the saw, keep it away from metal objects like 
+  paper clips, coins, keys, nails, and screws. These can short-circuit the 
+  battery terminals and cause burns or fire.
+• Under extreme conditions, battery liquid may leak. If it touches your skin, 
+  wash immediately with soap and water. If it gets in your eyes, flush with 
+  water for 15 minutes and seek medical attention immediately.
+
+
+SAW-SPECIFIC SAFETY
+-------------------
+
+⚠ HOLD THE SAW BY THE INSULATED GRIP AREAS when cutting where you might hit 
+hidden wiring or the saw's own cord. Contact with a live wire can electrify 
+exposed metal parts and shock the operator.
+
+⚠ ALWAYS WEAR A DUST MASK when cutting. Wood dust and metal particles can be 
+harmful if inhaled.
+
+⚠ BLADE HAZARD: Recently used blades are HOT. Allow to cool before touching or 
+changing.
+
+⚠ SECURE YOUR WORKPIECE: Use clamps or a vise. Holding work by hand or against 
+your body is unstable and dangerous.
+
+⚠ LET THE BLADE REACH FULL SPEED before contacting the material. This prevents 
+kickback and blade damage.
+
+⚠ KEEP HANDS AWAY from the cutting area and blade path at all times.
+
+
+================================================================================
+BATTERY AND CHARGER SAFETY
+================================================================================
+
+BATTERY WARNINGS
+• DO NOT disassemble, open, crush, bend, puncture, or shred the battery.
+• DO NOT expose to fire, excessive heat, or microwave ovens.
+• DO NOT immerse in water or other liquids.
+• DO NOT short-circuit the battery terminals.
+• DO NOT modify or attempt to repair the battery.
+• Dispose of used batteries according to local regulations.
+• Supervise children around batteries and tools.
+• Use only with Freedom chargers and tools.
+
+CHARGER SAFETY
+• Read all instructions before using the charger.
+• DO NOT expose charger to rain or snow.
+• DO NOT use attachments not recommended by Freedom.
+• Pull by the plug, not the cord, when disconnecting.
+• Keep the cord away from foot traffic and heat sources.
+• Use an extension cord only if absolutely necessary.
+
+EXTENSION CORD WIRE GAUGE CHART (for charger use):
+
+Cord Length          Wire Gauge (AWG)
+0-25 feet           18 AWG
+26-50 feet          16 AWG
+51-100 feet         16 AWG
+101-150 feet        14 AWG
+
+• Use only the supplied Freedom charger.
+• Charge only one battery at a time.
+• DO NOT attempt to open the charger.
+• DO NOT incinerate batteries - they can explode.
+• DO NOT charge in explosive atmospheres (near flammable liquids, gases, or 
+  dust).
+
+BATTERY LIQUID CONTACT:
+• If battery liquid contacts skin: Wash immediately with mild soap and water.
+• If battery liquid contacts eyes: Rinse with water for 3 minutes and seek 
+  medical attention.
+• Battery electrolyte contains organic carbonates and lithium salts.
+
+⚠ BURN HAZARD: Battery liquid may be flammable if exposed to spark or flame.
+
+
+================================================================================
+UNDERSTANDING RISKS
+================================================================================
+
+Even when used properly, some risks cannot be eliminated:
+
+1. Lung damage if you don't wear an effective dust mask
+2. Hearing damage if you don't wear hearing protection
+3. Health problems from vibration if the tool is used for extended periods 
+   without breaks
+
+⚠ ELECTROMAGNETIC FIELD WARNING: This saw produces an electromagnetic field 
+during operation. If you have a pacemaker or other medical implant, consult 
+your doctor and the implant manufacturer before using this tool.
+
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+CHARGING THE BATTERY (FIRST TIME USE)
+--------------------------------------
+
+Before using your saw for the first time, fully charge the battery:
+
+1. Insert the battery pack into the charger stand. Make sure the + and - 
+   terminals align correctly.
+
+2. Plug the charger into a standard wall outlet (100-240V AC).
+
+3. The indicator light will turn RED, showing the battery is charging.
+
+4. When fully charged (3-5 hours), the indicator light will turn GREEN.
+
+5. Unplug the charger from the wall outlet.
+
+6. Remove the battery from the charger.
+
+IMPORTANT CHARGING NOTES:
+• The battery reaches full capacity after 3-5 charge/discharge cycles.
+• The charger, adapter, and battery will feel warm during charging - this is 
+  normal.
+• Always unplug the charger from the wall BEFORE disconnecting the battery 
+  (fire hazard prevention).
+
+BATTERY MAINTENANCE:
+• Recharge when you notice reduced performance. Don't continue using a weak 
+  battery.
+• Recharge at least every 6 months, even if not in use.
+• DON'T overcharge. Remove the battery after 5 hours maximum.
+• DON'T recharge immediately after charging. Let the battery rest for at least 
+  15 minutes.
+• If storing the saw for a long time, recharge the battery before use.
+• If charging multiple batteries, wait at least 15 minutes between charges.
+• NEVER leave a charging battery unattended.
+
+
+INSTALLING THE BATTERY
+-----------------------
+
+1. Align the battery pack with the battery slot on the saw handle.
+2. Slide the battery in until it clicks into place.
+3. To remove: Press both battery release buttons and pull the battery out.
+
+
+================================================================================
+BLADE INSTALLATION AND REMOVAL
+================================================================================
+
+⚠ CAUTION: Recently used blades may be HOT. Allow to cool before handling.
+
+⚠ ALWAYS REMOVE THE BATTERY before changing blades.
+
+
+INSTALLING A BLADE
+------------------
+
+1. Remove the battery from the saw.
+
+2. Turn the blade clamp release lever counterclockwise to its full open 
+   position.
+
+3. Insert the T-shank blade into the blade holder from the front. Push it in 
+   as far as it will go.
+
+4. Release the blade clamp release lever. It will automatically lock the blade 
+   in place.
+
+5. Tug on the blade to make sure it's secure.
+
+
+REMOVING A BLADE
+----------------
+
+1. Remove the battery from the saw.
+
+2. Turn the blade clamp release lever counterclockwise to its full open 
+   position.
+
+3. Pull the blade straight out from the front.
+
+4. Release the blade clamp release lever.
+
+⚠ Dispose of worn or damaged blades safely. Wrap in cardboard or heavy paper 
+before discarding.
+
+
+BLADE SELECTION GUIDE
+---------------------
+
+Use only T-SHANK blades with this saw. The blade package will specify:
+• TPI (Teeth Per Inch): More teeth = smoother cut, fewer teeth = faster cut
+• Material type: Wood, metal, plastic, etc.
+
+WOOD CUTTING BLADES:
+• 6-10 TPI: Fast, rough cuts in softwood
+• 10-14 TPI: General purpose wood cutting
+• 14+ TPI: Fine, smooth cuts in hardwood
+
+METAL CUTTING BLADES:
+• 18-24 TPI: For cutting steel, aluminum, copper, and other metals
+• Use bi-metal blades for longer life
+
+PLASTIC CUTTING BLADES:
+• 10-14 TPI: For PVC, acrylic, and other plastics
+
+
+================================================================================
+BLADE ORIENTATION - TWO CUTTING MODES
+================================================================================
+
+Your Freedom Mini Saw can cut in two different orientations:
+
+
+FORWARD MODE (Standard)
+-----------------------
+Blade teeth face FORWARD, away from the saw body.
+
+Use for:
+• Most cutting applications
+• Cutting boards and lumber
+• General purpose work
+• Maximum visibility of cut line
+
+
+BACKWARD MODE (Inverted)
+------------------------
+Blade teeth face DOWNWARD, toward the base plate.
+
+Use for:
+• Flush cutting against walls or floors
+• Cutting in tight spaces
+• Reducing tear-out on top surface
+• Cutting close to obstacles
+
+To switch modes: Simply remove the blade and reinstall it in the opposite 
+orientation.
+
+
+================================================================================
+OPERATING YOUR MINI SAW
+================================================================================
+
+BEFORE EACH USE - SAFETY CHECK
+-------------------------------
+
+□ Inspect the blade for damage, cracks, or dull teeth
+□ Make sure the blade is properly installed and secure
+□ Check that the battery is fully charged and locked in place
+□ Ensure the base plate is clean and undamaged
+□ Verify the trigger and lock-off button work properly
+□ Wear safety glasses, dust mask, and hearing protection
+
+
+STARTING THE SAW
+----------------
+
+This saw has a two-step safety system to prevent accidental starting:
+
+1. Press the LOCK-OFF BUTTON on either side of the handle.
+
+2. While holding the lock-off button, squeeze the TRIGGER.
+
+3. The saw will start running.
+
+4. Once running, you can release the lock-off button. The saw will continue 
+   running as long as you hold the trigger.
+
+5. To stop: Release the trigger.
+
+⚠ There is NO lock-on feature. You must hold the trigger to keep the saw 
+running.
+
+
+VARIABLE SPEED CONTROL
+----------------------
+
+The trigger is variable speed:
+• Squeeze lightly = Slower cutting speed
+• Squeeze fully = Maximum cutting speed (2,100 SPM)
+
+Use slower speeds for:
+• Starting cuts
+• Cutting metal
+• Cutting curves
+• Better control
+
+Use maximum speed for:
+• Straight cuts in wood
+• Cutting plastic
+• Faster material removal
+
+
+================================================================================
+CUTTING TECHNIQUES
+================================================================================
+
+GENERAL CUTTING PROCEDURE
+--------------------------
+
+1. Mark your cut line clearly with a pencil.
+
+2. Secure the workpiece firmly with clamps. Make sure the cut area overhangs 
+   the work surface so the blade won't hit the table.
+
+3. Install the appropriate blade for your material.
+
+4. Put on safety glasses, dust mask, and hearing protection.
+
+5. Install the battery.
+
+6. Position the base plate firmly against the workpiece.
+
+7. Align the blade with your cut line (don't touch the material yet).
+
+8. Start the saw and let it reach full speed.
+
+9. Slowly guide the saw forward into the material. Let the blade do the work - 
+   don't force it.
+
+10. Keep the base plate flat against the workpiece throughout the cut.
+
+11. At the end of the cut, release the trigger before lifting the saw away.
+
+
+CUTTING WOOD
+------------
+
+BLADE RECOMMENDATION: 10 TPI or higher, thin kerf blade
+
+TECHNIQUE:
+• Secure the wood with clamps
+• Place the base plate firmly against the wood
+• Start the saw before touching the wood
+• Use steady, even pressure
+• Don't force the saw - let the blade cut at its own pace
+• For thick wood, use a slower feed rate
+
+PREVENTING TEAR-OUT:
+• Cut with the "good" side facing down
+• Use a fine-tooth blade (14+ TPI)
+• Apply masking tape along the cut line
+• Use backward blade orientation for less tear-out on top
+
+CUTTING CURVES:
+• Use a narrow blade designed for curves
+• Cut slowly and carefully
+• Don't twist the blade - make relief cuts if necessary
+
+
+TREE TRIMMING AND PRUNING
+--------------------------
+
+BLADE RECOMMENDATION: 6-10 TPI wood cutting blade
+
+TECHNIQUE:
+• Hold the base plate firmly against the branch
+• Cut as close to the trunk as possible to minimize branch movement
+• For thick branches, make a relief cut on the underside first to prevent 
+  bark tearing
+• Be aware of branch tension - it may pinch the blade
+• Never cut branches above your head
+• Watch for falling branches
+
+⚠ SAFETY: Wear safety glasses, gloves, and a hard hat when trimming trees.
+
+
+CUTTING METAL
+-------------
+
+BLADE RECOMMENDATION: 18-24 TPI bi-metal blade
+
+TECHNIQUE:
+• Secure the metal firmly - it must not vibrate
+• Use a slower cutting speed
+• Apply light, steady pressure
+• Don't force the blade - this reduces blade life and can cause breakage
+• Let the blade cool periodically on long cuts
+
+CUTTING THIN SHEET METAL:
+• Clamp thin plywood underneath the metal
+• This prevents vibration and tearing
+• Produces a cleaner cut
+
+CUTTING METAL PIPE:
+• DON'T cut straight through like wood
+• Instead, cut around the circumference of the pipe
+• Only one section of the blade should contact the pipe at a time
+• This prevents blade pinching
+
+LUBRICATION:
+• Apply a thin film of cutting oil along the cut line
+• This makes cutting easier and extends blade life
+• For aluminum, use kerosene instead of oil
+
+
+CUTTING PLASTIC
+---------------
+
+BLADE RECOMMENDATION: 10-14 TPI blade
+
+TECHNIQUE:
+• Secure the plastic firmly
+• Use medium speed
+• Apply light pressure
+• Cut slowly to prevent melting from friction heat
+• Let the blade cool if you notice melting
+
+TYPES OF PLASTIC:
+• PVC pipe: Use wood-cutting blade, medium speed
+• Acrylic: Use fine-tooth blade, slow speed to prevent cracking
+• Polycarbonate: Use fine-tooth blade, slow speed
+
+
+FLUSH CUTTING
+-------------
+
+For cutting close to walls, floors, or other surfaces:
+
+1. Install the blade in BACKWARD MODE (teeth facing down).
+
+2. Position the base plate flat against the surface.
+
+3. Guide the saw carefully along the surface.
+
+4. The blade will cut flush with the surface.
+
+APPLICATIONS:
+• Cutting off door jambs for flooring installation
+• Trimming PVC pipes flush with walls
+• Cutting cable ducts against floors or ceilings
+• Removing protruding nails or screws
+
+
+================================================================================
+OPERATING TIPS FOR BEST RESULTS
+================================================================================
+
+DO:
+✓ Use sharp blades - they cut faster and safer
+✓ Match the blade to the material
+✓ Secure your workpiece firmly
+✓ Keep the base plate flat against the material
+✓ Let the saw reach full speed before cutting
+✓ Use steady, even pressure
+✓ Wear safety glasses and a dust mask
+✓ Take breaks to let the saw cool on heavy use
+
+DON'T:
+✗ Force the saw - let the blade cut at its own pace
+✗ Twist or bend the blade during cutting
+✗ Cut materials thicker than the saw's capacity
+✗ Use damaged or dull blades
+✗ Hold the workpiece by hand while cutting
+✗ Touch the blade immediately after cutting (hot!)
+✗ Use the saw without the base plate
+✗ Operate with a low battery (poor performance)
+
+
+MAXIMIZING BATTERY LIFE
+------------------------
+
+• Fully charge before first use
+• Don't completely drain the battery
+• Recharge when you notice reduced performance
+• Use the correct blade for the material
+• Don't force the saw - this drains the battery faster
+• Store the battery in a cool, dry place
+• Recharge every 6 months if not in use
+
+
+PREVENTING BLADE BREAKAGE
+--------------------------
+
+• Use the correct blade for the material
+• Don't force or twist the blade
+• Avoid cutting nails or screws (use bi-metal blade if unavoidable)
+• Don't use damaged blades
+• Support the workpiece properly to prevent binding
+• Release trigger if blade gets stuck
+
+
+================================================================================
+MAINTENANCE AND CLEANING
+================================================================================
+
+⚠ ALWAYS REMOVE THE BATTERY BEFORE MAINTENANCE OR CLEANING!
+
+AFTER EACH USE:
+• Wipe the saw with a dry or slightly damp cloth
+• Remove sawdust and debris from the base plate
+• Check the blade for damage
+• Remove the blade if storing for more than a few days
+
+REGULAR MAINTENANCE:
+• Keep the ventilation slots clean and free of dust
+• Use compressed air to blow out dust from the motor area
+• Inspect the power cord on the charger for damage
+• Check that all screws and fasteners are tight
+• Inspect the blade clamp mechanism for wear
+
+CLEANING:
+• Use only a dry or slightly damp cloth
+• NEVER use water, solvents, gasoline, paint thinner, or harsh chemicals
+• Don't spray cleaners directly on the saw
+• Clean the base plate with a soft brush
+
+BLADE CARE:
+• Remove pitch and resin buildup with blade cleaner
+• Store blades in a dry place
+• Dispose of damaged blades safely
+
+STORAGE:
+• Store in a cool, dry place
+• Remove the battery if storing for more than 30 days
+• Keep out of reach of children
+• Store in the original case or a secure location
+• Store blades separately in a safe container
+
+REPAIRS:
+• For your safety, all repairs must be performed by an authorized Freedom 
+  service center
+• Use only genuine Freedom replacement parts
+• Never attempt to disassemble the saw or battery pack
+
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Saw won't start
+□ Check that battery is fully charged and installed correctly
+□ Make sure you're pressing the lock-off button AND trigger simultaneously
+□ Try a different battery if available
+□ Check that the trigger moves freely
+□ Let the saw cool down if it's been used heavily
+
+PROBLEM: Saw runs but cuts poorly
+□ Replace with a sharp blade - dull blades cut poorly
+□ Use the correct blade for the material
+□ Recharge the battery - low battery reduces power
+□ Don't force the saw - let the blade cut at its own pace
+□ Check that blade is installed correctly and fully seated
+
+PROBLEM: Blade won't stay locked in place
+□ Make sure you're using T-shank blades (not U-shank)
+□ Push the blade in as far as it will go before releasing the lever
+□ Check that the blade clamp mechanism isn't damaged
+□ Clean debris from the blade holder
+□ Contact service center if problem persists
+
+PROBLEM: Excessive vibration
+□ Replace bent or damaged blade
+□ Secure workpiece more firmly
+□ Use correct blade for the material
+□ Don't force the saw
+□ Check that all screws are tight
+
+PROBLEM: Blade breaks frequently
+□ Don't force or twist the blade
+□ Use correct blade for the material (metal blade for metal, etc.)
+□ Support workpiece properly to prevent binding
+□ Use bi-metal blades for cutting metal or nails
+□ Reduce cutting pressure
+
+PROBLEM: Battery drains quickly
+□ Fully charge the battery
+□ Battery may be old - consider replacement
+□ Use sharp blades - dull blades drain battery faster
+□ Don't force the saw
+□ Let battery cool between charges
+
+PROBLEM: Cut is not straight
+□ Keep base plate flat against workpiece
+□ Don't force or twist the saw
+□ Use a straightedge guide for long cuts
+□ Replace bent or damaged blade
+□ Secure workpiece firmly
+
+PROBLEM: Saw overheats
+□ Let saw cool for 15 minutes
+□ Don't force the saw - use less pressure
+□ Use a sharp blade
+□ Keep ventilation slots clear
+□ Take breaks during heavy use
+
+
+================================================================================
+SPECIFICATIONS SUMMARY
+================================================================================
+
+Model:                       FT1003
+Type:                        Cordless Reciprocating Mini Saw
+Voltage:                     18V DC
+Battery:                     Lithium-Ion
+Blade Type:                  T-Shank (universal)
+Stroke Rate:                 2,100 strokes per minute
+Stroke Length:               3/4" (19mm)
+Cutting Capacity (Wood):     1" (25mm)
+Cutting Capacity (Steel):    3/16" (4mm)
+Cutting Capacity (Plastic):  3/16" (5mm)
+Charging Time:               3-5 hours
+Charger Input:               100-240V AC, 50/60Hz
+Weight (with battery):       Approx. 4 lbs
+
+
+================================================================================
+DISPOSAL AND RECYCLING
+================================================================================
+
+♻ DO NOT throw this tool or batteries in household trash!
+
+Electronic waste and batteries contain materials that can harm the environment.
+
+Please recycle:
+• Take to a local recycling center that accepts electronics
+• Contact your local waste management authority for collection information
+• Return to a Freedom Tools dealer that accepts old tools
+• Check www.call2recycle.org for battery recycling locations
+
+
+================================================================================
+ACCESSORIES AND REPLACEMENT PARTS
+================================================================================
+
+RECOMMENDED BLADES:
+
+Wood Cutting:
+• FT-BLADE-W10: 10 TPI general purpose wood blade
+• FT-BLADE-W14: 14 TPI fine finish wood blade
+• FT-BLADE-W6: 6 TPI fast cutting blade
+
+Metal Cutting:
+• FT-BLADE-M18: 18 TPI bi-metal blade
+• FT-BLADE-M24: 24 TPI bi-metal blade for thin metal
+
+Multi-Purpose:
+• FT-BLADE-MP: Multi-material blade for wood, plastic, and soft metals
+
+Available at Freedom Tools dealers or online at [website]
+
+
+================================================================================
+SYMBOLS AND LABELS
+================================================================================
+
+The following symbols may appear on your tool:
+
+⚠  Warning symbol - Read manual
+V  Volts
+~  Alternating current
+═  Direct current
+↻  Recycling symbol
+🔊 Wear hearing protection
+👓 Wear eye protection
+🧤 Wear gloves
+😷 Wear dust mask
+⚡ Electric shock hazard
+🔥 Fire hazard
+🌡 Hot surface warning
+
+
+================================================================================
+
+FREEDOM TOOLS - Built for Performance, Designed for You
+
+Thank you for choosing Freedom!
+
+© 2026 Freedom Tools. All rights reserved.
+
+================================================================================
+

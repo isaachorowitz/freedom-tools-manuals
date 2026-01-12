@@ -1,0 +1,150 @@
+================================================================================
+FREEDOM 18V CORDLESS DRILL
+MODEL: FT1001
+CONDENSED INSTRUCTION MANUAL
+================================================================================
+
+NOTE: Battery pack and charger are sold separately.
+
+
+================================================================================
+WHAT'S IN THE BOX
+================================================================================
+
+□ Freedom 18V Cordless Drill (FT1001)
+□ Instruction Manual
+
+
+================================================================================
+QUICK SAFETY (READ FIRST)
+================================================================================
+
+⚠ WARNING: Misuse can cause electric shock, fire, or serious injury.
+
+• Wear eye protection. Wear hearing protection when needed.
+• Secure your work with clamps—never hold it by hand.
+• Keep hands away from rotating parts. Remove the battery before adjustments.
+• Use only Freedom 18V batteries and the correct charger for this battery type.
+• Keep charger dry. If working in damp locations, use an RCD-protected outlet/circuit.
+• Do not use damaged bits or damaged batteries/chargers.
+• Keep children/bystanders away while operating.
+
+
+================================================================================
+TOOL OVERVIEW
+================================================================================
+
+Controls:
+• Trigger: variable speed
+• Forward/Reverse: change direction only when stopped (middle position = lock)
+• Speed selector: 1 = low / 2 = high (change only when stopped)
+• Torque ring: 1–17 for screws, drill symbol for drilling
+• LED work light: turns on with trigger
+
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+CHARGING (FIRST USE)
+1. Insert battery into charger. Align terminals correctly (correct polarity).
+2. Plug in charger (100–240V).
+3. Red = charging, Green = charged (about 3–5 hours).
+4. Unplug and remove battery.
+
+INSTALL BATTERY
+• Slide battery in until it clicks. To remove, press release buttons and pull out.
+
+
+================================================================================
+BASIC OPERATION
+================================================================================
+
+INSTALL A BIT
+1. Remove battery.
+2. Open chuck (turn counterclockwise), insert bit fully, tighten firmly by hand.
+
+SELECT SPEED
+• Speed 1 (low): screws, large holes, metal
+• Speed 2 (high): small holes in wood/plastic
+
+SET TORQUE
+• Screws: start low (1–5) and increase as needed.
+• Drilling: set to drill symbol (clutch off).
+
+DRILLING
+1. Mark location. Clamp work.
+2. Drill symbol + correct speed.
+3. Start slowly, then steady pressure—don’t force.
+4. Clear chips on deep holes.
+
+DRIVING SCREWS
+1. Speed 1 (low). Start torque low.
+2. Keep bit straight, steady pressure. Stop when seated—don’t over-tighten.
+
+IF A BIT BINDS/JAMS
+• Release trigger immediately. Switch to reverse and back out slowly.
+
+
+================================================================================
+MAINTENANCE
+================================================================================
+
+⚠ Remove battery before cleaning or maintenance.
+
+• Wipe with dry/slightly damp cloth only (no solvents).
+• Keep vents clear; blow out dust with compressed air if available.
+• Keep bits sharp; replace worn accessories.
+• Store in a cool, dry place. Remove battery for long storage.
+
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Drill won’t start
+□ Charge battery and fully seat it
+□ Make sure F/R switch isn’t in the middle (lock)
+□ Try another battery (if available)
+
+PROBLEM: Low power
+□ Recharge battery
+□ Use correct speed and drill/torque setting
+□ Use a sharp bit and reduce pressure
+
+PROBLEM: Battery won’t charge
+□ Confirm outlet power and battery seated in charger
+□ Clean contacts with dry cloth
+□ Battery may be defective
+
+
+================================================================================
+KEY SPECS
+================================================================================
+
+Voltage: 18V DC
+Chuck: 3/8\" keyless
+Speed: 0–350 / 0–1300 RPM
+Torque settings: 17 + drill
+Charge time: 3–5 hours
+
+
+================================================================================
+DISPOSAL AND RECYCLING
+================================================================================
+
+♻ Do not dispose of tool/batteries in household trash. Recycle according to local
+regulations and battery recycling programs.
+
+
+================================================================================
+SYMBOLS
+================================================================================
+
+⚠  Warning / Read manual
+👓 Eye protection
+🔊 Hearing protection
+😷 Dust mask/respirator
+♻  Recycle
+
+

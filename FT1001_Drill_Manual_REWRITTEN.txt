@@ -1,0 +1,631 @@
+================================================================================
+FREEDOM 18V CORDLESS DRILL
+MODEL: FT1001
+INSTRUCTION MANUAL
+================================================================================
+
+Thank you for choosing Freedom Tools!
+
+Please read this manual carefully before using your new drill. Keep it handy 
+for future reference.
+
+
+================================================================================
+WHAT'S IN THE BOX
+================================================================================
+
+□ Freedom 18V Cordless Drill (FT1001)
+□ Instruction Manual
+
+NOTE: Battery pack and charger are sold separately.
+
+
+================================================================================
+INTENDED USE
+================================================================================
+
+Your Freedom Cordless Drill is designed for:
+• Drilling holes in wood, metal, plastic, and other materials
+• Driving screws into various materials
+• Removing screws
+
+This tool is NOT intended for:
+• Mixing paint, concrete, or other materials
+• Any use not described in this manual
+
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+Model Number:                FT1001
+Voltage:                     18V DC
+Battery Type:                Lithium-Ion
+Chuck Size:                  3/8" (keyless)
+Speed Range:                 
+  • Low Speed (Position 1):  0-350 RPM
+  • High Speed (Position 2): 0-1300 RPM
+Torque Settings:             17 + 1 (drill mode)
+Charging Time:               3-5 hours
+Weight:                      Approximately 3.5 lbs (with battery)
+
+
+================================================================================
+KNOW YOUR DRILL - PARTS IDENTIFICATION
+================================================================================
+
+ 1. Speed Selector Switch (1 = Low, 2 = High)
+ 2. Torque Adjustment Ring (1-17 + drill symbol)
+ 3. Keyless Chuck (3/8")
+ 4. LED Work Light
+ 5. Forward/Reverse Switch
+ 6. Variable Speed Trigger
+ 7. Battery Level Indicator
+ 8. Battery Level Test Button
+ 9. Battery Pack (18V Li-Ion)
+10. Battery Release Buttons
+11. Motor Ventilation Slots
+12. Battery Charging Port
+13. Charger Connector Socket
+14. AC Power Supply Unit (100-240V)
+15. Charger Indicator Light
+
+
+================================================================================
+IMPORTANT SAFETY INFORMATION
+================================================================================
+
+⚠ WARNING: Failure to follow these safety instructions may result in electric 
+shock, fire, serious injury, or death.
+
+SAVE THESE INSTRUCTIONS - Keep this manual in a safe place for future reference.
+
+
+GENERAL POWER TOOL SAFETY
+--------------------------
+
+WORK AREA SAFETY
+• Keep your work area clean and well-lit. Cluttered or dark areas increase the 
+  risk of accidents.
+• DO NOT operate power tools near flammable liquids, gases, or dust. Power 
+  tools create sparks that can ignite fumes or dust.
+• Keep children and bystanders at least 10 feet away while operating this tool.
+
+ELECTRICAL SAFETY
+• Even though this is a cordless tool, keep the charger away from rain and 
+  moisture.
+• Never use the charger if the cord or plug is damaged.
+• Keep the charging cord away from heat, oil, sharp edges, and moving parts.
+• If you must use an extension cord with the charger, use only cords rated for 
+  outdoor use.
+• If working in damp locations, use a residual current device (RCD) protected
+  outlet or circuit.
+
+PERSONAL SAFETY
+• Stay alert. Don't use power tools when you're tired or under the influence 
+  of drugs, alcohol, or medication.
+• Always wear safety glasses or goggles. Also use a dust mask, non-slip safety 
+  shoes, hard hat, and hearing protection when appropriate.
+• Prevent accidental starting. Make sure the trigger is OFF before inserting 
+  the battery.
+• Remove adjustment tools before turning on the drill. A wrench left on a 
+  rotating part can cause injury.
+• Don't overreach. Keep proper footing and balance at all times.
+• Dress appropriately. Don't wear loose clothing or jewelry. Keep long hair 
+  tied back. Loose items can get caught in moving parts.
+• If your drill has a dust collection port, make sure it's connected and 
+  working properly.
+
+TOOL USE AND CARE
+• Use the right tool for the job. Don't force a tool to do something it wasn't 
+  designed for.
+• Don't use the drill if the switch doesn't turn it on and off properly. A tool 
+  that can't be controlled is dangerous and must be repaired.
+• Remove the battery before making adjustments, changing accessories, or 
+  storing the tool.
+• Store the drill out of reach of children. Never let anyone unfamiliar with 
+  power tools or these instructions operate this drill.
+• Maintain your tools. Check for misaligned or jammed moving parts, broken 
+  parts, and any other condition that might affect operation. Have damaged 
+  tools repaired before use.
+• Keep drill bits sharp and clean. Sharp bits are less likely to jam and are 
+  easier to control.
+• Use only accessories recommended for this drill. Using the wrong accessories 
+  can be dangerous.
+
+BATTERY SAFETY
+• Only use the Freedom charger that came with this drill. Using the wrong 
+  charger can cause fires.
+• Only use Freedom 18V battery packs with this drill.
+• When the battery is not in the drill, keep it away from metal objects like 
+  paper clips, coins, keys, nails, and screws. These can short-circuit the 
+  battery terminals and cause burns or fire.
+• Under extreme conditions, battery liquid may leak. If it touches your skin, 
+  wash immediately with soap and water. If it gets in your eyes, flush with 
+  water for 15 minutes and seek medical attention immediately.
+
+
+DRILL-SPECIFIC SAFETY
+---------------------
+
+⚠ WEAR EAR PROTECTION when impact drilling. Exposure to noise can cause hearing 
+loss.
+
+⚠ USE THE AUXILIARY HANDLE (if your model has one). Loss of control can cause 
+injury.
+
+⚠ HOLD THE DRILL BY THE INSULATED GRIP AREAS when drilling where you might hit 
+hidden wiring. Contact with a live wire can electrify exposed metal parts and 
+shock the operator.
+
+
+SCREWDRIVER SAFETY
+------------------
+
+⚠ HOLD THE DRILL BY THE INSULATED GRIP AREAS when driving screws where you 
+might hit hidden wiring. Contact with a live wire can electrify exposed metal 
+parts and shock the operator.
+
+
+================================================================================
+BATTERY AND CHARGER SAFETY
+================================================================================
+
+BATTERY WARNINGS
+• This tool is not intended for use by children or people with reduced 
+  physical, sensory, or mental capabilities without supervision.
+• Children must be supervised to ensure they don't play with the tool.
+• Read all battery and charger instructions before use.
+• Use only the correct charger for your battery type.
+• Never expose the battery or charger to moisture, rain, or water.
+• The charging area temperature must not exceed 104°F (40°C). Never charge in 
+  direct sunlight.
+• Defective or damaged batteries must be disposed of as hazardous waste at a 
+  proper collection facility. Never throw batteries in household trash, fire, 
+  or water.
+• If the power cord is damaged, it must be replaced by the manufacturer or 
+  authorized service center.
+• Use only original Freedom battery packs.
+• Keep the charger surface clean and free of dust.
+• Insert the battery correctly, matching the + and - terminals.
+• ALWAYS remove the battery before working on the drill.
+• When the battery is removed from the drill, cover the terminals to prevent 
+  short circuits.
+• NEVER throw batteries into water or fire - EXPLOSION RISK!
+• Protect the battery from impacts. Don't open it.
+• Don't completely discharge the battery. Recharge it occasionally even when 
+  not in use.
+
+
+UNDERSTANDING RISKS
+-------------------
+
+Even when used properly, some risks cannot be eliminated:
+
+1. Lung damage if you don't wear an effective dust mask
+2. Hearing damage if you don't wear hearing protection
+3. Health problems from vibration if the tool is used for extended periods 
+   without breaks
+
+⚠ ELECTROMAGNETIC FIELD WARNING: This drill produces an electromagnetic field 
+during operation. If you have a pacemaker or other medical implant, consult 
+your doctor and the implant manufacturer before using this tool.
+
+
+================================================================================
+VIBRATION INFORMATION
+================================================================================
+
+This drill produces vibration during use. The actual vibration level depends on:
+• What material you're drilling
+• What type of bit you're using
+• How hard you're pressing
+• How long you use the tool
+
+To reduce vibration exposure:
+• Take frequent breaks
+• Maintain the tool properly
+• Keep bits sharp
+• Don't grip the tool too tightly
+• Wear anti-vibration gloves
+
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+CHARGING THE BATTERY (FIRST TIME USE)
+--------------------------------------
+
+Before using your drill for the first time, fully charge the battery:
+
+1. Insert the battery pack into the charger stand. Make sure the + and - 
+   terminals align correctly (correct polarity).
+
+2. Plug the charger into a standard wall outlet (100-240V AC).
+
+3. The indicator light will turn RED, showing the battery is charging.
+
+4. When fully charged (3-5 hours), the indicator light will turn GREEN.
+
+5. Unplug the charger from the wall outlet.
+
+6. Remove the battery from the charger.
+
+IMPORTANT CHARGING NOTES:
+• The battery reaches full capacity after 3-5 charge/discharge cycles.
+• The charger, adapter, and battery will feel warm during charging - this is 
+  normal.
+• Always unplug the charger from the wall BEFORE disconnecting the battery.
+
+BATTERY MAINTENANCE:
+• Recharge when you notice reduced performance. Don't continue using a weak 
+  battery.
+• Recharge at least every 6 months, even if not in use.
+• DON'T overcharge. Remove the battery after 5 hours maximum.
+• DON'T recharge immediately after charging. Let the battery rest for at least 
+  15 minutes.
+• If storing the drill for a long time, recharge the battery before use.
+• If charging multiple batteries, wait at least 15 minutes between charges.
+• NEVER leave a charging battery unattended.
+
+
+INSTALLING THE BATTERY
+-----------------------
+
+1. Align the battery pack with the battery slot on the drill handle.
+2. Slide the battery in until it clicks into place.
+3. To remove: Press both battery release buttons and pull the battery out.
+
+
+CHECKING BATTERY CHARGE LEVEL
+------------------------------
+
+Press the TEST button on the battery. The indicator lights show the charge level:
+• 3 lights = Fully charged
+• 2 lights = Medium charge
+• 1 light = Low charge - recharge soon
+• No lights = Dead - recharge now
+
+
+================================================================================
+OPERATING YOUR DRILL
+================================================================================
+
+INSTALLING DRILL BITS OR SCREWDRIVER BITS
+------------------------------------------
+
+1. Make sure the battery is removed.
+
+2. Hold the back section of the chuck (the part closest to the drill body).
+
+3. Rotate the front section of the chuck counterclockwise to open the jaws.
+
+4. Insert the drill bit or screwdriver bit as far as possible into the chuck.
+   • For screwdriver bits, use a bit holder/adapter
+   • Choose the correct bit size to avoid damaging screws
+
+5. Tighten the chuck by rotating the front section clockwise. Tighten firmly 
+   by hand.
+
+6. Check that the bit is secure by trying to pull it out.
+
+
+SELECTING DRILL SPEED (1 OR 2)
+-------------------------------
+
+Your drill has two speed ranges:
+
+• SPEED 1 (LOW): 0-350 RPM
+  Use for: Driving screws, drilling large holes, drilling metal
+
+• SPEED 2 (HIGH): 0-1300 RPM
+  Use for: Drilling small holes in wood, drilling plastic
+
+To change speeds: Slide the speed selector switch to position 1 or 2.
+
+⚠ ONLY change speeds when the drill is completely stopped!
+
+
+SETTING THE TORQUE (CLUTCH)
+----------------------------
+
+The torque ring controls how much twisting force the drill applies. This 
+prevents over-tightening screws and stripping screw heads.
+
+Numbers 1-17: Use for driving screws
+• Start with 1 (lowest torque) and increase if needed
+• Higher numbers = more force
+• The clutch will "click" when the set torque is reached
+
+Drill Symbol: Use for drilling holes
+• This setting provides maximum power
+• The clutch is disengaged
+
+
+FORWARD AND REVERSE
+-------------------
+
+The forward/reverse switch controls rotation direction:
+
+• FORWARD (clockwise): For drilling holes and driving screws
+• REVERSE (counterclockwise): For removing screws and backing out jammed bits
+
+The switch shows directional arrows:
+• → = Forward
+• ← = Reverse
+
+⚠ ONLY change direction when the drill is completely stopped!
+
+
+TURNING THE DRILL ON AND OFF
+-----------------------------
+
+TO START:
+• Squeeze the trigger
+
+TO STOP:
+• Release the trigger
+
+VARIABLE SPEED CONTROL:
+• Squeeze lightly = Slow speed
+• Squeeze harder = Faster speed
+
+This gives you precise control for starting holes and driving screws.
+
+
+LED WORK LIGHT
+--------------
+
+The LED work light automatically turns on when you squeeze the trigger. This 
+illuminates your work area for better visibility.
+
+
+================================================================================
+USING YOUR DRILL
+================================================================================
+
+DRILLING HOLES
+--------------
+
+1. Select the correct drill bit for your material:
+   • Wood: Brad point or twist drill bits
+   • Metal: High-speed steel (HSS) twist bits
+   • Masonry: Carbide-tipped masonry bits
+   • Plastic: Standard twist bits
+
+2. Mark your drilling location with a pencil or center punch.
+
+3. Set the torque ring to the drill symbol position.
+
+4. Select the appropriate speed:
+   • Large holes or metal: Speed 1 (low)
+   • Small holes or wood: Speed 2 (high)
+
+5. Position the bit at the mark and squeeze the trigger slowly to start.
+
+6. Apply steady, moderate pressure. Let the drill do the work - don't force it.
+
+7. For deep holes, periodically pull the bit out to clear chips.
+
+IF THE BIT GETS JAMMED:
+• Release the trigger immediately
+• Switch to reverse
+• Use low speed to back the bit out
+• Don't force it - this can damage the bit or drill
+
+
+DRIVING SCREWS
+--------------
+
+1. Select the correct screwdriver bit for your screw type:
+   • Phillips head: Use Phillips bit (#1, #2, or #3)
+   • Flat head: Use flat blade bit
+   • Square drive: Use Robertson bit
+   • Star: Use Torx bit
+
+2. Insert the bit into a bit holder/adapter, then into the chuck.
+
+3. Set the torque ring to 1 (lowest setting).
+
+4. Select Speed 1 (low speed).
+
+5. Set the forward/reverse switch to forward (→).
+
+6. Position the bit squarely in the screw head.
+
+7. Hold the drill straight and apply steady pressure while squeezing the 
+   trigger.
+
+8. If the screw isn't fully seated and the clutch clicks, increase the torque 
+   setting and try again.
+
+TIPS FOR DRIVING SCREWS:
+• Pre-drill pilot holes in hardwood to prevent splitting
+• Keep the bit pressed firmly into the screw head to prevent stripping
+• Use steady, even pressure
+• Don't over-tighten - this can strip threads or break screw heads
+
+
+REMOVING SCREWS
+---------------
+
+1. Insert the correct screwdriver bit.
+
+2. Set the torque ring to a medium setting (8-12).
+
+3. Set the forward/reverse switch to reverse (←).
+
+4. Position the bit squarely in the screw head.
+
+5. Hold the drill straight and apply firm pressure while squeezing the trigger.
+
+6. If the screw is stuck, try:
+   • Increasing the torque setting
+   • Applying penetrating oil and waiting a few minutes
+   • Using an impact driver instead
+
+
+================================================================================
+OPERATING TIPS
+================================================================================
+
+PREVENTING MOTOR OVERHEATING
+• Don't run the drill at low speed for extended periods - this can overheat 
+  the motor.
+• If the drill feels hot, stop and let it cool for 15 minutes.
+• Keep the ventilation slots clear of dust and debris.
+
+MAXIMIZING BATTERY LIFE
+• Don't completely drain the battery before recharging.
+• Store batteries in a cool, dry place (50-70°F is ideal).
+• Recharge every 6 months even if not in use.
+• Remove the battery if storing the drill for more than 30 days.
+
+GETTING THE BEST RESULTS
+• Use sharp bits - dull bits require more force and drain the battery faster.
+• Match the bit to the material.
+• Start holes at slow speed for better accuracy.
+• Secure your workpiece with clamps - never hold it by hand.
+• Wear safety glasses every time you use the drill.
+
+
+================================================================================
+MAINTENANCE AND CLEANING
+================================================================================
+
+⚠ ALWAYS REMOVE THE BATTERY BEFORE MAINTENANCE OR CLEANING!
+
+CLEANING
+• Wipe the drill with a dry or slightly damp cloth.
+• NEVER use water, solvents, gasoline, paint thinner, or harsh chemicals - 
+  these can damage the plastic housing.
+• Keep the ventilation slots clean and free of dust to prevent overheating.
+• Use compressed air to blow out dust from the motor vents.
+
+CHUCK MAINTENANCE
+• Occasionally apply a drop of light machine oil to the chuck threads.
+• Open and close the chuck a few times to distribute the oil.
+
+GENERAL INSPECTION
+• Regularly check for:
+  - Loose screws or parts
+  - Damaged cords (on charger)
+  - Worn or damaged chuck
+  - Unusual noises or vibrations
+
+STORAGE
+• Store in a cool, dry place.
+• Remove the battery if storing for more than 30 days.
+• Keep out of reach of children.
+• Store in the original case or a secure location.
+
+REPAIRS
+• For your safety, all repairs must be performed by an authorized Freedom 
+  service center.
+• Use only genuine Freedom replacement parts.
+• Never attempt to disassemble the drill or battery pack.
+
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Drill won't start
+□ Check that battery is fully charged
+□ Make sure battery is fully inserted and locked
+□ Check that forward/reverse switch is fully engaged (not in middle position)
+□ Try a different battery if available
+□ Let the drill cool down if it's been used heavily
+
+PROBLEM: Drill runs but has no power
+□ Recharge the battery
+□ Check that you're using the correct speed setting
+□ Make sure the torque ring isn't set too low (use drill symbol for drilling)
+□ Use a sharp bit - dull bits require more power
+
+PROBLEM: Chuck won't hold bit securely
+□ Make sure bit shank is clean and free of debris
+□ Tighten chuck more firmly
+□ Check that bit shank is straight (not bent)
+□ Chuck may be worn - contact service center
+
+PROBLEM: Battery won't charge
+□ Check that charger is plugged into working outlet
+□ Make sure battery is fully seated in charger
+□ Clean battery and charger contacts with dry cloth
+□ Let battery warm up if it's very cold (below 40°F)
+□ Battery may be defective - contact customer service
+
+PROBLEM: Drill overheats
+□ Let drill cool for 15 minutes
+□ Don't use low speed for extended periods
+□ Keep ventilation slots clear
+□ Don't overload the drill - use appropriate bits and speeds
+
+PROBLEM: LED light doesn't work
+□ This is normal if battery is very low - recharge
+□ LED may be burned out - contact service center
+
+
+================================================================================
+SPECIFICATIONS SUMMARY
+================================================================================
+
+Model:                       FT1001
+Type:                        Cordless Drill/Driver
+Voltage:                     18V DC
+Battery:                     Lithium-Ion
+Chuck:                       3/8" keyless
+Speed 1:                     0-350 RPM
+Speed 2:                     0-1300 RPM
+Torque Settings:             17 + drill mode
+Charging Time:               3-5 hours
+Charger Input:               100-240V AC, 50/60Hz
+Weight (with battery):       Approx. 3.5 lbs
+
+
+================================================================================
+DISPOSAL AND RECYCLING
+================================================================================
+
+♻ DO NOT throw this tool or batteries in household trash!
+
+Electronic waste and batteries contain materials that can harm the environment.
+
+Please recycle:
+• Take to a local recycling center that accepts electronics
+• Contact your local waste management authority for collection information
+• Return to a Freedom Tools dealer that accepts old tools
+• Check www.call2recycle.org for battery recycling locations
+
+
+================================================================================
+SYMBOLS AND LABELS
+================================================================================
+
+The following symbols may appear on your tool:
+
+⚠  Warning symbol - Read manual
+V  Volts
+~  Alternating current
+═  Direct current
+↻  Recycling symbol
+🔊 Wear hearing protection
+👓 Wear eye protection
+🧤 Wear gloves
+😷 Wear dust mask
+⚡ Electric shock hazard
+🔥 Fire hazard
+
+
+================================================================================
+
+FREEDOM TOOLS - Built for Performance, Designed for You
+
+Thank you for choosing Freedom!
+
+© 2026 Freedom Tools. All rights reserved.
+
+================================================================================
+

@@ -1,0 +1,1128 @@
+================================================================================
+FREEDOM 18V CORDLESS OSCILLATING MULTI-TOOL
+MODEL: FT1002
+INSTRUCTION MANUAL
+================================================================================
+
+Thank you for choosing Freedom Tools!
+
+Please read this manual carefully before using your new oscillating multi-tool. 
+Keep it handy for future reference.
+
+
+================================================================================
+WHAT'S IN THE BOX
+================================================================================
+
+□ Freedom 18V Cordless Oscillating Multi-Tool (FT1002)
+□ Assorted Accessory Blades and Pads
+□ Hex Wrench for Accessory Installation
+□ Universal Adapter (for competitor accessories)
+□ Instruction Manual
+
+NOTE: Battery pack and charger are sold separately.
+
+
+================================================================================
+INTENDED USE
+================================================================================
+
+Your Freedom Oscillating Multi-Tool is designed for:
+
+CUTTING:
+• Wood, plywood, and composite materials
+• Plastic and PVC
+• Drywall and plaster
+• Non-ferrous metals (copper, aluminum, brass)
+• Fasteners (nails, staples, screws)
+• Flush cutting close to walls and edges
+
+SANDING:
+• Detail sanding in tight spaces
+• Corners and edges
+• Small to medium surfaces
+• Wood, metal, paint, and varnish
+
+SCRAPING:
+• Removing old paint and varnish
+• Scraping adhesives and caulk
+• Removing grout between tiles
+• Cleaning surfaces
+
+This tool is NOT intended for:
+• Heavy-duty demolition work
+• Cutting thick metal or steel
+• Wet sanding
+• Polishing or buffing
+• Any use not described in this manual
+
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+Model Number:                FT1002
+Voltage:                     18V DC
+Battery Type:                Lithium-Ion
+No-Load Speed:               5,000 - 18,000 oscillations per minute (OPM)
+Oscillation Angle:           3.0 degrees
+Speed Settings:              6 variable speed positions
+Accessory Mount:             12-position (30° increments)
+Charging Time:               3-5 hours
+Weight:                      Approximately 3.2 lbs (with battery)
+
+
+================================================================================
+KNOW YOUR OSCILLATING MULTI-TOOL - PARTS IDENTIFICATION
+================================================================================
+
+ 1. Accessory Mounting Plate (12-position)
+ 2. Hex Bolt (for securing accessories)
+ 3. Hex Wrench (included)
+ 4. Universal Adapter (for competitor accessories)
+ 5. Variable Speed Dial (1-6 settings)
+ 6. Slide ON/OFF Switch
+ 7. Soft Grip Handle
+ 8. Battery Pack (18V Li-Ion)
+ 9. Battery Release Buttons
+10. Battery Level Indicator
+11. Motor Ventilation Slots
+12. LED Work Light (if equipped)
+
+
+================================================================================
+IMPORTANT SAFETY INFORMATION
+================================================================================
+
+⚠ WARNING: Failure to follow these safety instructions may result in electric 
+shock, fire, serious injury, or death.
+
+SAVE THESE INSTRUCTIONS - Keep this manual in a safe place for future reference.
+
+
+GENERAL POWER TOOL SAFETY
+--------------------------
+
+WORK AREA SAFETY
+• Keep your work area clean and well-lit. Cluttered or dark areas increase the 
+  risk of accidents.
+• DO NOT operate power tools near flammable liquids, gases, or dust. Power 
+  tools create sparks that can ignite fumes or dust.
+• Keep children and bystanders at least 10 feet away while operating this tool.
+
+ELECTRICAL SAFETY
+• Keep the charger away from rain and moisture.
+• Never use the charger if the cord or plug is damaged.
+• Keep the charging cord away from heat, oil, sharp edges, and moving parts.
+• If you must use an extension cord with the charger, use only cords rated for 
+  outdoor use.
+• If working in damp locations, use a residual current device (RCD) protected
+  outlet or circuit.
+
+PERSONAL SAFETY
+• Stay alert. Don't use power tools when you're tired or under the influence 
+  of drugs, alcohol, or medication.
+• Always wear safety glasses or goggles. Also wear a dust mask, hearing 
+  protection, and gloves when appropriate.
+• Prevent accidental starting. Make sure the switch is OFF before inserting 
+  the battery.
+• Don't overreach. Keep proper footing and balance at all times.
+• Dress appropriately. Don't wear loose clothing or jewelry. Keep long hair 
+  tied back. Loose items can get caught in moving parts.
+• If the tool has a dust collection port, make sure it's connected and working 
+  properly.
+
+TOOL USE AND CARE
+• Use the right tool for the job. Don't force a tool to do something it wasn't 
+  designed for.
+• Don't use the tool if the switch doesn't turn it on and off properly. A tool 
+  that can't be controlled is dangerous and must be repaired.
+• Remove the battery before making adjustments, changing accessories, or 
+  storing the tool.
+• Store the tool out of reach of children. Never let anyone unfamiliar with 
+  power tools or these instructions operate this tool.
+• Maintain your tools. Check for damaged parts and any other condition that 
+  might affect operation. Have damaged tools repaired before use.
+• Keep cutting accessories sharp and clean. Sharp accessories are safer and 
+  more efficient.
+• Use only accessories recommended for this tool. Using the wrong accessories 
+  can be dangerous.
+
+BATTERY SAFETY
+• Only use the Freedom charger that came with this tool. Using the wrong 
+  charger can cause fires.
+• Only use Freedom 18V battery packs with this tool.
+• When the battery is not in the tool, keep it away from metal objects like 
+  paper clips, coins, keys, nails, and screws. These can short-circuit the 
+  battery terminals and cause burns or fire.
+• Under extreme conditions, battery liquid may leak. If it touches your skin, 
+  wash immediately with soap and water. If it gets in your eyes, flush with 
+  water for 15 minutes and seek medical attention immediately.
+
+
+OSCILLATING TOOL-SPECIFIC SAFETY
+---------------------------------
+
+⚠ HOLD THE TOOL BY THE INSULATED GRIP AREAS when working where you might hit 
+hidden wiring. Contact with a live wire can electrify exposed metal parts and 
+shock the operator.
+
+⚠ SECURE YOUR WORKPIECE with clamps or a vise. Holding work by hand or against 
+your body is unstable and dangerous.
+
+⚠ CHECK FOR HIDDEN UTILITIES before cutting into walls. Use a stud finder or 
+metal detector to locate wires, pipes, and other hazards. If unsure, turn off 
+power at the breaker box.
+
+⚠ STRIKING A GAS LINE will cause an explosion. Hitting a water pipe can cause 
+flooding and electrocution. Call your local utility company if you're unsure 
+what's behind a wall.
+
+⚠ HOLD THE TOOL WITH BOTH HANDS for maximum control. Keep proper footing and 
+balance at all times.
+
+⚠ KEEP HANDS AWAY from the cutting area. Don't reach under material being cut.
+
+⚠ DON'T USE DULL OR DAMAGED ACCESSORIES. Bent or damaged accessories can break 
+and cause injury.
+
+⚠ ACCESSORIES ARE SHARP - Handle with care. Wear protective gloves when 
+changing accessories.
+
+⚠ ACCESSORIES GET HOT during use. Allow to cool before touching or changing.
+
+⚠ VIBRATION WARNING: Use thick, cushioned gloves and take frequent breaks. 
+Prolonged exposure to vibration can cause hand and arm injuries.
+
+⚠ CHECK FOR NAILS before scraping. Remove nails or set them below the surface. 
+Hitting a nail can cause the tool to jump.
+
+⚠ DON'T WET SAND with this tool. Liquids entering the motor housing can cause 
+electric shock.
+
+⚠ DON'T WORK IN WET AREAS or on freshly applied wallpaper. There is an electric 
+shock hazard when working in damp conditions.
+
+⚠ ALWAYS WEAR EYE PROTECTION AND A DUST MASK, especially when sanding overhead. 
+Sanding particles can be inhaled and absorbed by your eyes.
+
+⚠ LEAD PAINT WARNING: If sanding paint that may contain lead (pre-1978 homes), 
+take special precautions:
+  • Wear a respirator approved for lead dust
+  • Wear protective clothing
+  • Seal the work area with plastic sheeting
+  • Keep unprotected persons out of the area
+  • Clean up thoroughly with a HEPA vacuum
+  • Lead exposure can cause birth defects and other serious health problems
+
+⚠ PRESSURE-TREATED LUMBER WARNING: Wear a respirator and protective clothing 
+when sanding chemically treated lumber. These materials may contain carcinogens.
+
+⚠ DON'T USE OVERSIZED SANDPAPER. Sandpaper larger than the pad will extend 
+beyond the edge, causing snagging, tearing, kickback, and possible lacerations.
+
+
+ADDITIONAL SAFETY WARNINGS
+---------------------------
+
+• Use GFCI (Ground Fault Circuit Interrupter) protection when working in damp 
+  locations.
+• Wear electrician's rubber gloves and insulated footwear for additional 
+  protection.
+• Keep handles dry, clean, and free from oil and grease. Slippery hands cannot 
+  safely control the tool.
+• Establish a regular maintenance schedule. Don't disassemble the tool - 
+  internal wires may be damaged.
+• Don't use harsh cleaning agents like gasoline, carbon tetrachloride, or 
+  ammonia - these can damage plastic parts.
+• Make sure the switch is OFF before inserting the battery. Inserting the 
+  battery with the switch ON can cause accidents.
+
+⚠ DUST HAZARD WARNING: Some dust created by sanding, sawing, grinding, and 
+drilling contains chemicals known to cause cancer, birth defects, and 
+reproductive harm. Examples include:
+  • Lead from lead-based paints
+  • Crystalline silica from bricks, cement, and masonry
+  • Arsenic and chromium from pressure-treated lumber
+
+To reduce exposure:
+• Work in a well-ventilated area
+• Use a dust collection system
+• Wear an approved respirator or dust mask
+• Don't eat, drink, or smoke in the work area
+• Wash hands and face thoroughly after use
+
+
+================================================================================
+BATTERY AND CHARGER SAFETY
+================================================================================
+
+BATTERY WARNINGS
+• DO NOT disassemble, open, crush, bend, puncture, or shred the battery.
+• DO NOT expose to fire, excessive heat, or microwave ovens.
+• DO NOT immerse in water or other liquids.
+• DO NOT short-circuit the battery terminals.
+• DO NOT modify or attempt to repair the battery.
+• Dispose of used batteries according to local regulations.
+• Supervise children around batteries and tools.
+• Use only with Freedom chargers and tools.
+
+BATTERY CARE
+• Keep batteries away from metal objects when not in use (paper clips, coins, 
+  keys, nails, screws, etc.). These can short the terminals and cause burns or 
+  fire.
+• DO NOT PUT BATTERIES IN FIRE OR EXPOSE TO HIGH HEAT - they may explode.
+
+BATTERY DISPOSAL
+• Don't attempt to disassemble the battery.
+• Prior to disposal, protect exposed terminals with heavy insulating tape to 
+  prevent shorting.
+• Take to a proper battery recycling facility.
+
+CHARGER SAFETY
+• Read all instructions before using the charger.
+• DO NOT expose charger to rain or snow.
+• Pull by the plug, not the cord, when disconnecting.
+• Keep the cord away from foot traffic and heat sources.
+• Use an extension cord only if absolutely necessary.
+• Use only the supplied Freedom charger.
+• Charge only one battery at a time.
+• DO NOT attempt to open the charger.
+• DO NOT incinerate batteries - they can explode.
+• DO NOT charge in explosive atmospheres.
+
+
+================================================================================
+UNDERSTANDING RISKS
+================================================================================
+
+Even when used properly, some risks cannot be eliminated:
+
+1. Lung damage if you don't wear an effective dust mask
+2. Hearing damage if you don't wear hearing protection
+3. Health problems from vibration if the tool is used for extended periods 
+   without breaks
+
+⚠ ELECTROMAGNETIC FIELD WARNING: This tool produces an electromagnetic field 
+during operation. If you have a pacemaker or other medical implant, consult 
+your doctor and the implant manufacturer before using this tool.
+
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+CHARGING THE BATTERY (FIRST TIME USE)
+--------------------------------------
+
+Before using your tool for the first time, fully charge the battery:
+
+1. Insert the battery pack into the charger stand. Make sure the + and - 
+   terminals align correctly (correct polarity).
+
+2. Plug the charger into a standard wall outlet (100-240V AC).
+
+3. The indicator light will turn RED, showing the battery is charging.
+
+4. When fully charged (3-5 hours), the indicator light will turn GREEN.
+
+5. Unplug the charger from the wall outlet.
+
+6. Remove the battery from the charger.
+
+IMPORTANT CHARGING NOTES:
+• The battery reaches full capacity after 3-5 charge/discharge cycles.
+• The charger, adapter, and battery will feel warm during charging - this is 
+  normal.
+• Always unplug the charger from the wall BEFORE disconnecting the battery 
+  (fire hazard prevention).
+
+BATTERY MAINTENANCE:
+• Recharge when you notice reduced performance. Don't continue using a weak 
+  battery.
+• Recharge at least every 6 months, even if not in use.
+• DON'T overcharge. Remove the battery after 5 hours maximum.
+• DON'T recharge immediately after charging. Let the battery rest for at least 
+  15 minutes.
+• If storing the tool for a long time, recharge the battery before use.
+• If charging multiple batteries, wait at least 15 minutes between charges.
+• NEVER leave a charging battery unattended.
+
+
+INSTALLING THE BATTERY
+-----------------------
+
+1. Align the battery pack with the battery slot on the tool handle.
+2. Slide the battery in until it clicks into place.
+3. To remove: Press both battery release buttons and pull the battery out.
+
+
+================================================================================
+ACCESSORY INSTALLATION AND REMOVAL
+================================================================================
+
+⚠ ALWAYS REMOVE THE BATTERY before installing or removing accessories!
+
+⚠ WEAR PROTECTIVE GLOVES - Accessories are sharp and may be hot after use.
+
+
+INSTALLING ACCESSORIES
+----------------------
+
+Your Freedom Oscillating Multi-Tool uses a 12-position mounting system that 
+allows you to attach accessories at 30-degree increments for optimal working 
+angles.
+
+1. Remove the battery from the tool.
+
+2. Select the appropriate accessory for your task (see Accessory Guide below).
+
+3. Align the holes in the accessory with the locating pins on the accessory 
+   mounting plate.
+
+4. Choose the desired angle (12 positions available, 30° apart).
+
+5. Make sure the pins fully engage into the holes in the accessory.
+
+6. Insert the hex bolt through the center hole.
+
+7. Use the included hex wrench to tighten the bolt securely. Don't overtighten.
+
+8. Tug on the accessory to make sure it's secure.
+
+
+REMOVING ACCESSORIES
+--------------------
+
+1. Remove the battery from the tool.
+
+2. Use the hex wrench to loosen and remove the hex bolt.
+
+3. Pull the accessory straight off the mounting plate.
+
+4. Store accessories safely in a dry place.
+
+
+USING THE UNIVERSAL ADAPTER
+----------------------------
+
+The included universal adapter allows you to use most competitor oscillating 
+tool accessories with your Freedom tool.
+
+1. Install the adapter on the mounting plate using the hex bolt.
+
+2. Attach the competitor accessory to the adapter according to its design.
+
+3. Tighten securely.
+
+Note: Some competitor accessories may not fit or perform optimally. Use Freedom 
+accessories for best results.
+
+
+INSTALLING SANDING SHEETS
+--------------------------
+
+Your tool uses hook-and-loop (Velcro-style) backed sandpaper that attaches 
+directly to the sanding pad.
+
+1. Remove the battery.
+
+2. Install the sanding pad accessory on the mounting plate.
+
+3. Remove dust from the sanding pad surface if necessary.
+
+4. Peel the backing off the sandpaper.
+
+5. Press the sandpaper firmly onto the sanding pad. Make sure it's centered 
+   and fully adhered.
+
+6. To remove: Simply peel off the old sandpaper.
+
+SANDING PAD CARE:
+• The hook-and-loop surface will wear out over time
+• Replace the pad when it no longer holds sandpaper firmly
+• Don't apply excessive pressure during sanding - this accelerates pad wear
+• Keep the pad clean and free of debris
+
+
+================================================================================
+ACCESSORY SELECTION GUIDE
+================================================================================
+
+Choose the right accessory for your task:
+
+
+CUTTING ACCESSORIES
+-------------------
+
+BIM SEGMENT SAW BLADE (Bi-Metal)
+Materials: Hard and soft wood, plastic, non-ferrous metals
+Applications:
+• Separating and plunge cuts
+• Sawing close to edges and in corners
+• Hard-to-reach areas
+• Shortening installed door hinges or trim
+• Plunge cuts for adjusting floor panels
+
+HCS PLUNGE CUT SAW BLADE (High Carbon Steel)
+Materials: Wood, plastic, drywall, gypsum, soft materials
+Applications:
+• Separating and deep plunge cuts
+• Sawing close to edges and in corners
+• Cutting PVC pipes flush against walls
+• Cutting cable ducts against floors or ceilings
+
+BIM PLUNGE CUT SAW BLADE (Bi-Metal, narrow)
+Materials: Hard and soft wood, metal (nails, screws, small profiles), 
+non-ferrous metals
+Applications:
+• Smaller separating and plunge cuts
+• Shortening narrow profiles
+• Cutting fasteners like staples and nails
+
+HM-RIFF SEGMENTED SAW BLADE (Carbide Grit)
+Materials: Grout, soft wall tiles, fiberglass-reinforced plastic, abrasive 
+materials
+Applications:
+• Cutting and separating close to edges
+• Removing grout between wall tiles for repair
+• Cutting openings in tiles
+• Cutting drywall and cement board
+
+
+SCRAPING ACCESSORIES
+--------------------
+
+RIGID SCRAPER (Stiff Blade)
+Materials: Wood, plastic, drywall, soft materials
+Applications:
+• Scraping off old paint or varnish
+• Removing adhesives
+• Removing bonded carpeting
+• Small to medium surfaces
+• Stairs and steps
+
+FLEXIBLE SCRAPER (Soft Blade)
+Materials: Silicone, caulk, elastic materials
+Applications:
+• Removing putty and soft residue
+• Scraping in confined areas
+• Removing caulk from bathtubs and sinks
+• Delicate surfaces
+
+
+SANDING ACCESSORIES
+-------------------
+
+SANDING PAD (Hook-and-Loop Base)
+Materials: Depends on sandpaper grit
+Applications:
+• Sanding surfaces close to edges
+• Sanding in corners
+• Hard-to-reach areas
+• Wood, paint, varnish, stone, glass
+• Detail work and finishing
+
+SANDPAPER SHEETS (Various Grits)
+• Coarse (40-60 grit): Heavy material removal, paint stripping
+• Medium (80-120 grit): General sanding, smoothing rough wood
+• Fine (150-220 grit): Final sanding, preparing for finish
+• Extra Fine (320+ grit): Final finishing, smoothing between coats
+
+
+================================================================================
+OPERATING YOUR OSCILLATING MULTI-TOOL
+================================================================================
+
+BEFORE EACH USE - SAFETY CHECK
+-------------------------------
+
+□ Inspect the accessory for damage or wear
+□ Make sure the accessory is properly installed and secure
+□ Check that the battery is fully charged and locked in place
+□ Verify the switch works properly
+□ Wear safety glasses, dust mask, hearing protection, and gloves
+
+
+TURNING THE TOOL ON AND OFF
+----------------------------
+
+Your Freedom Oscillating Multi-Tool has a slide switch located on top of the 
+motor housing.
+
+TO TURN ON:
+• Slide the switch forward to the "I" position
+• The tool will start oscillating
+
+TO TURN OFF:
+• Slide the switch backward to the "0" position
+• The tool will stop
+
+⚠ HOLD THE TOOL WITH BOTH HANDS when starting. The motor torque can cause the 
+tool to twist.
+
+
+VARIABLE SPEED DIAL
+-------------------
+
+Your tool has a 6-position variable speed dial for different materials and 
+applications.
+
+SPEED SETTINGS:
+
+Position 1 (Lowest - 5,000 OPM):
+• Delicate materials
+• Plastic (to prevent melting)
+• Starting cuts
+
+Position 2 (8,000 OPM):
+• Soft woods
+• Light scraping
+• Fine sanding
+
+Position 3 (11,000 OPM):
+• General wood cutting
+• Medium scraping
+• General sanding
+
+Position 4 (14,000 OPM):
+• Hardwoods
+• Drywall
+• Heavy scraping
+
+Position 5 (16,000 OPM):
+• Metal cutting
+• Grout removal
+• Aggressive material removal
+
+Position 6 (Highest - 18,000 OPM):
+• Maximum power
+• Fast cutting
+• Heavy-duty applications
+
+GENERAL GUIDELINES:
+• Start with a lower speed and increase as needed
+• Lower speeds = more control, less material removal
+• Higher speeds = faster cutting, more aggressive
+
+
+================================================================================
+USING YOUR OSCILLATING MULTI-TOOL
+================================================================================
+
+SCRAPING
+--------
+
+APPLICATIONS:
+• Removing old paint and varnish
+• Scraping adhesives and caulk
+• Removing bonded carpeting
+• Cleaning surfaces
+• Removing grout
+
+TECHNIQUE:
+
+1. Install the appropriate scraper (rigid or flexible).
+
+2. Select medium to high speed (positions 3-5).
+
+3. Put on safety glasses, dust mask, and gloves.
+
+4. Install the battery.
+
+5. Turn on the tool and let it reach full speed.
+
+6. Position the scraper at a flat angle to the surface (about 15-30 degrees).
+
+7. Apply light, steady pressure. Let the oscillating motion do the work.
+
+8. Work with the accessory moving away from your body.
+
+9. The scraping action only occurs when pressure is applied.
+
+TIPS:
+• Don't use excessive pressure - this can gouge or damage the underlying 
+  surface
+• Keep both hands on the tool
+• Work in sections for large areas
+• Take breaks to let the tool cool
+• For stubborn material, use a heat gun first to soften it
+
+
+SANDING
+-------
+
+APPLICATIONS:
+• Detail sanding in tight spaces
+• Corners and edges
+• Small to medium surfaces
+• Wood, metal, paint, varnish
+• Profiles and grooves
+• Hard-to-reach areas
+
+TECHNIQUE:
+
+1. Install the sanding pad accessory.
+
+2. Attach the appropriate grit sandpaper to the pad.
+
+3. Select the speed based on material:
+   • Soft wood: Position 2-3
+   • Hard wood: Position 3-4
+   • Metal: Position 4-5
+   • Paint removal: Position 4-5
+
+4. Put on safety glasses and dust mask.
+
+5. Secure the workpiece with clamps.
+
+6. Turn on the tool and let it reach full speed.
+
+7. Contact the work surface with the sanding pad.
+
+8. Move the tool in long, steady strokes.
+
+9. Overlap strokes by about 75%.
+
+10. Don't apply excessive pressure - let the tool do the work.
+
+11. For profiles and grooves, use the tip or edge of the sanding pad.
+
+12. Rotate the accessory occasionally to distribute wear evenly.
+
+SANDPAPER SELECTION GUIDE:
+
+Coarse (40-60 grit):
+• Rough wood sanding
+• Rust or old finish removal
+• Heavy material removal
+
+Medium (80-120 grit):
+• General wood sanding
+• Metal sanding
+• Smoothing rough surfaces
+
+Fine (150-220 grit):
+• Final finishing of wood
+• Smoothing metal and plaster
+• Preparing surfaces for paint
+
+Extra Fine (320+ grit):
+• Final sanding of bare wood
+• Smoothing old paint
+• Preparing finished surfaces for recoating
+
+TIPS:
+• Start with coarser grit and work up to finer grits
+• Sand with the grain on wood
+• Keep the tool moving - don't stay in one spot
+• Don't apply excessive pressure
+• Change sandpaper when it becomes clogged or worn
+• Use a vacuum or dust collection system if possible
+
+
+SAWING AND CUTTING
+------------------
+
+APPLICATIONS:
+• Cutting wood, plastic, drywall
+• Cutting non-ferrous metals
+• Plunge cuts
+• Flush cuts against walls
+• Cutting fasteners (nails, screws)
+• Trimming door jambs
+• Cutting flooring
+
+TECHNIQUE:
+
+1. Install the appropriate saw blade for your material.
+
+2. Select high speed (positions 5-6).
+
+3. Put on safety glasses, hearing protection, dust mask, and gloves.
+
+4. Mark your cut line clearly.
+
+5. Secure the workpiece firmly with clamps.
+
+6. Turn on the tool and let it reach full speed.
+
+7. Position the blade at the start of the cut.
+
+8. Apply steady, moderate pressure. Let the blade cut at its own pace.
+
+9. Don't force the tool - this can damage the blade or motor.
+
+10. For plunge cuts, start at a shallow angle and gradually increase pressure 
+    as the blade enters the material.
+
+MATERIAL-SPECIFIC TIPS:
+
+WOOD:
+• Use HCS or BIM segment blade
+• Cut with steady pressure
+• Don't force the blade
+• Support the workpiece to prevent binding
+
+METAL:
+• Use BIM blade
+• Use high speed
+• Apply light pressure
+• Let the blade cool periodically
+• Use cutting oil for easier cutting
+
+DRYWALL/PLASTER:
+• Use HCS plunge cut blade
+• Medium to high speed
+• Wear a dust mask - very dusty!
+• Check for wires and pipes first
+
+PLASTIC:
+• Use HCS blade
+• Use lower speed to prevent melting
+• Apply light pressure
+
+NAILS/SCREWS:
+• Use BIM plunge cut blade
+• High speed
+• Apply steady pressure
+• Blade will wear faster when cutting metal
+
+FLUSH CUTTING:
+• Position the blade flat against the surface
+• Apply steady pressure
+• Guide the tool carefully along the surface
+
+
+GROUT REMOVAL
+-------------
+
+APPLICATIONS:
+• Removing grout between tiles for repair
+• Cleaning out old grout for regrouting
+
+TECHNIQUE:
+
+1. Install the HM-Riff segmented carbide blade.
+
+2. Select high speed (position 5-6).
+
+3. Put on safety glasses and dust mask (very dusty!).
+
+4. Position the blade in the grout line.
+
+5. Apply moderate pressure and guide the tool along the grout line.
+
+6. Work carefully to avoid chipping the tiles.
+
+7. Remove grout to a depth of about 1/8" to 1/4".
+
+TIPS:
+• Work slowly and carefully
+• Don't apply excessive pressure near tile edges
+• Use a vacuum to collect dust as you work
+• Carbide blades last longer than metal blades for this application
+
+
+================================================================================
+OPERATING TIPS FOR BEST RESULTS
+================================================================================
+
+DO:
+✓ Use the correct accessory for the material
+✓ Start with lower speed and increase as needed
+✓ Secure your workpiece firmly
+✓ Wear appropriate safety equipment
+✓ Let the tool reach full speed before contacting material
+✓ Use steady, even pressure
+✓ Take breaks to let the tool cool
+✓ Keep accessories sharp and in good condition
+✓ Hold the tool with both hands
+
+DON'T:
+✗ Force the tool - let it work at its own pace
+✗ Use damaged or worn accessories
+✗ Apply excessive pressure
+✗ Work in one spot too long (can damage surface or overheat tool)
+✗ Use the tool without safety equipment
+✗ Operate with a low battery (reduced performance)
+✗ Touch accessories immediately after use (hot!)
+✗ Use oversized sandpaper
+
+
+MAXIMIZING BATTERY LIFE
+------------------------
+
+• Fully charge before first use
+• Don't completely drain the battery
+• Recharge when you notice reduced performance
+• Use the correct accessory and speed for the material
+• Don't force the tool
+• Store the battery in a cool, dry place
+• Recharge every 6 months if not in use
+
+
+PREVENTING ACCESSORY DAMAGE
+----------------------------
+
+• Use the correct accessory for the material
+• Don't force or bend accessories
+• Avoid hitting nails or screws (unless using BIM blade)
+• Don't use damaged accessories
+• Store accessories properly when not in use
+• Allow accessories to cool before handling
+
+
+================================================================================
+TYPICAL APPLICATIONS AND PROJECTS
+================================================================================
+
+RENOVATION WORK:
+• Removing old tile adhesive
+• Cutting out damaged drywall sections
+• Removing grout for tile repair
+• Trimming door jambs for new flooring
+• Flush-cutting protruding nails
+• Removing old caulk
+
+CLEANING WORK:
+• Cleaning tile surfaces
+• Removing paint splatters
+• Cleaning wood surfaces
+• Removing adhesive residue
+
+PREPARATION WORK:
+• Preparing surfaces for new flooring
+• Preparing surfaces for new tile
+• Sanding in tight corners
+• Smoothing plaster and mortar
+
+DETAIL SANDING:
+• Sanding louvered panels
+• Sanding in extremely tight areas
+• Craft projects
+• Furniture restoration
+• Areas that require hand sanding
+
+PLUMBING WORK:
+• Cutting PVC pipes flush with walls
+• Trimming plastic pipe
+• Removing old caulk around fixtures
+
+FLOORING INSTALLATION:
+• Undercutting door jambs
+• Trimming baseboards
+• Cutting flooring in place
+• Removing old adhesive
+
+CARPENTRY:
+• Flush-cutting dowels
+• Trimming wood plugs
+• Detail sanding
+• Removing excess glue
+
+
+================================================================================
+MAINTENANCE AND CLEANING
+================================================================================
+
+⚠ ALWAYS REMOVE THE BATTERY BEFORE MAINTENANCE OR CLEANING!
+
+AFTER EACH USE:
+• Wipe the tool with a dry or slightly damp cloth
+• Remove dust and debris from the accessory mounting area
+• Check accessories for damage or wear
+• Remove the accessory if storing for more than a few days
+
+REGULAR MAINTENANCE:
+• Keep the ventilation slots clean and free of dust
+• Use compressed air to blow out dust from the motor area
+• Inspect the power cord on the charger for damage
+• Check that the hex bolt and mounting pins are in good condition
+• Inspect accessories for wear or damage
+
+CLEANING:
+• Use only a dry or slightly damp cloth
+• NEVER use water, solvents, gasoline, paint thinner, or harsh chemicals
+• Don't spray cleaners directly on the tool
+• Clean the accessory mounting plate with a soft brush
+
+ACCESSORY CARE:
+• Clean accessories after each use
+• Remove pitch and resin buildup from saw blades
+• Store accessories in a dry place
+• Replace worn or damaged accessories
+• Keep cutting accessories sharp
+
+STORAGE:
+• Store in a cool, dry place
+• Remove the battery if storing for more than 30 days
+• Keep out of reach of children
+• Store in the original case or a secure location
+• Store accessories separately in a safe container
+
+REPAIRS:
+• For your safety, all repairs must be performed by an authorized Freedom 
+  service center
+• Use only genuine Freedom replacement parts
+• Never attempt to disassemble the tool or battery pack
+
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Tool won't start
+□ Check that battery is fully charged and installed correctly
+□ Make sure the switch moves freely
+□ Try a different battery if available
+□ Let the tool cool down if it's been used heavily
+□ Check that the switch is in the OFF position before inserting battery
+
+PROBLEM: Tool runs but has no power
+□ Recharge the battery
+□ Check that you're using the correct speed setting
+□ Make sure the accessory is properly installed
+□ Use a sharp accessory - dull accessories require more power
+□ Don't apply excessive pressure
+
+PROBLEM: Tool vibrates excessively
+□ Check that accessory is properly installed and secure
+□ Tighten the hex bolt
+□ Replace bent or damaged accessory
+□ Make sure mounting pins are fully engaged in accessory holes
+
+PROBLEM: Accessory won't stay attached
+□ Tighten the hex bolt more firmly (but don't overtighten)
+□ Check that mounting pins are not damaged
+□ Make sure accessory holes align with pins
+□ Clean debris from mounting plate
+□ Check that accessory is compatible
+
+PROBLEM: Poor cutting or sanding performance
+□ Replace dull or worn accessory
+□ Increase the speed setting
+□ Recharge the battery
+□ Use the correct accessory for the material
+□ Don't apply excessive pressure
+□ Let the tool work at its own pace
+
+PROBLEM: Sandpaper won't stick to pad
+□ Clean the sanding pad surface
+□ Replace worn sanding pad
+□ Make sure you're using hook-and-loop backed sandpaper
+□ Press sandpaper firmly onto pad
+□ Don't apply excessive pressure during sanding (wears pad faster)
+
+PROBLEM: Tool overheats
+□ Let tool cool for 15 minutes
+□ Don't apply excessive pressure
+□ Use a sharp accessory
+□ Take breaks during heavy use
+□ Keep ventilation slots clear
+□ Don't work in one spot too long
+
+PROBLEM: Battery drains quickly
+□ Fully charge the battery
+□ Battery may be old - consider replacement
+□ Use sharp accessories
+□ Don't force the tool
+□ Use appropriate speed for the task
+□ Let battery cool between charges
+
+PROBLEM: Accessory gets too hot
+□ Take breaks to let accessory cool
+□ Don't apply excessive pressure
+□ Use appropriate speed for the material
+□ This is normal for extended use - wear gloves
+
+
+================================================================================
+SPECIFICATIONS SUMMARY
+================================================================================
+
+Model:                       FT1002
+Type:                        Cordless Oscillating Multi-Tool
+Voltage:                     18V DC
+Battery:                     Lithium-Ion
+No-Load Speed:               5,000 - 18,000 OPM
+Oscillation Angle:           3.0 degrees
+Speed Settings:              6 positions
+Accessory Mount:             12-position (30° increments)
+Charging Time:               3-5 hours
+Charger Input:               100-240V AC, 50/60Hz
+Weight (with battery):       Approx. 3.2 lbs
+
+
+================================================================================
+DISPOSAL AND RECYCLING
+================================================================================
+
+♻ DO NOT throw this tool or batteries in household trash!
+
+Electronic waste and batteries contain materials that can harm the environment.
+
+Please recycle:
+• Take to a local recycling center that accepts electronics
+• Contact your local waste management authority for collection information
+• Return to a Freedom Tools dealer that accepts old tools
+• Check www.call2recycle.org for battery recycling locations
+
+
+================================================================================
+ACCESSORIES AND REPLACEMENT PARTS
+================================================================================
+
+RECOMMENDED ACCESSORIES:
+
+Cutting Blades:
+• FT-ACC-BIM-SEG: BIM Segment Saw Blade (wood, plastic, metal)
+• FT-ACC-HCS-PLUNGE: HCS Plunge Cut Blade (wood, plastic, drywall)
+• FT-ACC-BIM-PLUNGE: BIM Plunge Cut Blade (wood, metal, fasteners)
+• FT-ACC-CARBIDE: Carbide Grit Blade (grout, tile, abrasives)
+
+Scrapers:
+• FT-ACC-SCRAPER-RIGID: Rigid Scraper (paint, varnish, adhesives)
+• FT-ACC-SCRAPER-FLEX: Flexible Scraper (caulk, putty, soft materials)
+
+Sanding:
+• FT-ACC-SAND-PAD: Hook-and-Loop Sanding Pad
+• FT-ACC-SAND-ASSORT: Assorted Sandpaper Pack (various grits)
+
+Other:
+• FT-ACC-ADAPTER: Universal Adapter (for competitor accessories)
+• FT-ACC-KIT: Complete Accessory Kit
+
+Available at Freedom Tools dealers or online at [website]
+
+
+================================================================================
+SYMBOLS AND LABELS
+================================================================================
+
+The following symbols may appear on your tool:
+
+⚠  Warning symbol - Read manual
+V  Volts
+~  Alternating current
+═  Direct current
+↻  Recycling symbol
+🔊 Wear hearing protection
+👓 Wear eye protection
+🧤 Wear gloves
+😷 Wear dust mask
+⚡ Electric shock hazard
+🔥 Fire hazard
+🌡 Hot surface warning
+
+
+================================================================================
+
+FREEDOM TOOLS - Built for Performance, Designed for You
+
+Thank you for choosing Freedom!
+
+© 2026 Freedom Tools. All rights reserved.
+
+================================================================================
+

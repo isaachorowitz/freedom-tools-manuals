@@ -1,0 +1,1247 @@
+================================================================================
+FREEDOM 18V CORDLESS ROTARY TOOL
+MODEL: FT1004
+INSTRUCTION MANUAL
+================================================================================
+
+Thank you for choosing Freedom Tools!
+
+Please read this manual carefully before using your new rotary tool. Keep it 
+handy for future reference.
+
+
+================================================================================
+WHAT'S IN THE BOX
+================================================================================
+
+□ Freedom 18V Cordless Rotary Tool (FT1004)
+□ 3 Collets (for different accessory shaft sizes)
+□ Sanding Rubber (for sanding bands)
+□ Cutting Wheel
+□ Grinding Stone
+□ Sanding Paper
+□ Wool Polishing Wheel
+□ Sanding Roll
+□ Cutting Wheel Fixture
+□ Screw Mandrel
+□ Drill Bits
+□ Grinder Bits
+□ Diamond Bits
+□ Spanner Wrench
+□ Instruction Manual
+
+NOTE: Battery pack and charger are sold separately.
+
+
+================================================================================
+INTENDED USE
+================================================================================
+
+Your Freedom Cordless Rotary Tool is designed for:
+
+CUTTING:
+• Cutting metal, plastic, and wood
+• Cutting-off operations with abrasive wheels
+• Precision cutting in tight spaces
+
+GRINDING AND SHAPING:
+• Grinding metal and other materials
+• Shaping wood, fiberglass, and plastic
+• Deburring edges
+• Rust removal
+
+SANDING:
+• Detail sanding in tight spaces
+• Smoothing wood and metal surfaces
+• Removing paint and finishes
+• Preparing surfaces for finishing
+
+POLISHING:
+• Polishing metal and plastic
+• Buffing to a high shine
+• Cleaning and restoring surfaces
+
+DRILLING:
+• Drilling small holes in wood, plastic, and soft metals
+• Detail work and craft projects
+
+WIRE BRUSHING:
+• Cleaning metal surfaces
+• Removing rust and corrosion
+• Preparing surfaces for painting
+
+This tool is NOT intended for:
+• Heavy-duty grinding or cutting
+• Use with liquid coolants
+• Outdoor use in wet conditions
+• Any use not described in this manual
+
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+Model Number:                FT1004
+Voltage:                     18V DC
+Battery Type:                Lithium-Ion
+No-Load Speed:               Up to 25,000 RPM
+Variable Speed Range:        2,000 - 18,000 RPM (adjustable)
+Collet Sizes:                3 sizes included
+Charging Time:               3-5 hours
+Weight:                      Approximately 2.8 lbs (with battery)
+
+
+================================================================================
+KNOW YOUR ROTARY TOOL - PARTS IDENTIFICATION
+================================================================================
+
+ 1. Chuck (collet holder)
+ 2. Spindle
+ 3. Spindle Lock Button
+ 4. Variable Speed Controller Dial
+ 5. ON/OFF Switch (I = On, O = Off)
+ 6. Soft Grip Handle
+ 7. Battery Pack (18V Li-Ion)
+ 8. Battery Release Buttons
+ 9. Battery Level Indicator
+10. Motor Ventilation Slots
+11. Chuck Nut (for securing collets)
+12. Collets (3 sizes for different accessory shafts)
+
+
+================================================================================
+IMPORTANT SAFETY INFORMATION
+================================================================================
+
+⚠ WARNING: Failure to follow these safety instructions may result in electric 
+shock, fire, serious injury, or death.
+
+SAVE THESE INSTRUCTIONS - Keep this manual in a safe place for future reference.
+
+
+GENERAL POWER TOOL SAFETY
+--------------------------
+
+WORK AREA SAFETY
+• Keep your work area clean and well-lit. Cluttered or dark areas increase the 
+  risk of accidents.
+• DO NOT operate power tools near flammable liquids, gases, or dust. Power 
+  tools create sparks that can ignite fumes or dust.
+• Keep children and bystanders at least 10 feet away while operating this tool.
+
+ELECTRICAL SAFETY
+• Keep the charger away from rain and moisture.
+• Never use the charger if the cord or plug is damaged.
+• Keep the charging cord away from heat, oil, sharp edges, and moving parts.
+• If you must use an extension cord with the charger, use only cords rated for 
+  outdoor use.
+
+PERSONAL SAFETY
+• Stay alert. Don't use power tools when you're tired or under the influence 
+  of drugs, alcohol, or medication.
+• Always wear safety glasses or goggles. Also wear a dust mask, hearing 
+  protection, and gloves when appropriate.
+• Prevent accidental starting. Make sure the switch is OFF before inserting 
+  the battery.
+• Remove adjustment tools before turning on the rotary tool. A wrench left on 
+  a rotating part can cause injury.
+• Don't overreach. Keep proper footing and balance at all times.
+• Dress appropriately. Don't wear loose clothing or jewelry. Keep long hair 
+  tied back. Loose items can get caught in moving parts.
+• Secure your workpiece with clamps or a vise. Never hold material by hand 
+  while working.
+
+TOOL USE AND CARE
+• Use the right tool for the job. Don't force a tool to do something it wasn't 
+  designed for.
+• Don't use the rotary tool if the switch doesn't turn it on and off properly. 
+  A tool that can't be controlled is dangerous and must be repaired.
+• Remove the battery before making adjustments, changing accessories, or 
+  storing the tool.
+• Store the tool out of reach of children. Never let anyone unfamiliar with 
+  power tools or these instructions operate this rotary tool.
+• Maintain your tools. Check for damaged parts and any other condition that 
+  might affect operation. Have damaged tools repaired before use.
+• Keep accessories sharp and clean. Sharp accessories are safer and more 
+  efficient.
+• Use only accessories recommended for this tool. Using the wrong accessories 
+  can be dangerous.
+
+BATTERY SAFETY
+• Only use the Freedom charger that came with this tool. Using the wrong 
+  charger can cause fires.
+• Only use Freedom 18V battery packs with this tool.
+• When the battery is not in the tool, keep it away from metal objects like 
+  paper clips, coins, keys, nails, and screws. These can short-circuit the 
+  battery terminals and cause burns or fire.
+• Under extreme conditions, battery liquid may leak. If it touches your skin, 
+  wash immediately with soap and water. If it gets in your eyes, flush with 
+  water for 15 minutes and seek medical attention immediately.
+
+
+ROTARY TOOL-SPECIFIC SAFETY
+----------------------------
+
+⚠ HOLD THE TOOL BY THE INSULATED GRIP AREAS when working where you might hit 
+hidden wiring. Contact with a live wire can electrify exposed metal parts and 
+shock the operator.
+
+⚠ ALWAYS WEAR SAFETY GLASSES OR GOGGLES. Flying debris from grinding, cutting, 
+and sanding can cause serious eye injury.
+
+⚠ WEAR A DUST MASK when sanding, grinding, or cutting. Wood dust, metal 
+particles, and other debris can be harmful if inhaled.
+
+⚠ ACCESSORIES MUST MATCH THE TOOL'S RATED SPEED. Using accessories rated for 
+lower speeds can cause them to break and fly apart.
+
+⚠ NEVER USE DAMAGED ACCESSORIES. Inspect all accessories before use. Cracked, 
+chipped, or damaged accessories can break during operation.
+
+⚠ ALLOW ACCESSORIES TO REACH FULL SPEED before contacting the workpiece. This 
+prevents kickback and damage.
+
+⚠ NEVER PUT THE TOOL DOWN until the accessory has completely stopped spinning.
+
+⚠ KICKBACK WARNING: A pinched, snagged, or bound accessory can cause the tool 
+to be thrown backward toward the operator. Maintain a firm grip at all times.
+
+⚠ DO NOT GRIND WITH THE SIDE OF A CUT-OFF WHEEL. Cut-off wheels are designed 
+for edge cutting only. Side pressure can cause the wheel to break.
+
+⚠ NEVER USE OVERSIZED ACCESSORIES. Accessories must not exceed the maximum 
+size specified for this tool.
+
+⚠ NEVER PRESS THE SPINDLE LOCK while the tool is running. This can damage the 
+tool and cause injury.
+
+⚠ WIRE BRUSHES THROW BRISTLES. Wear protective clothing and face shield when 
+using wire brushes. Bristles can become embedded in skin.
+
+⚠ DO NOT USE LIQUID COOLANTS with this tool. Liquids can damage the motor and 
+cause electric shock.
+
+⚠ KEEP HANDS AWAY from spinning accessories at all times. Even at low speeds, 
+rotating accessories can cause serious cuts.
+
+
+DUST HAZARD WARNING
+--------------------
+
+⚠ Some dust created by sanding, sawing, grinding, and drilling contains 
+chemicals known to cause cancer, birth defects, and reproductive harm. 
+Examples include:
+  • Lead from lead-based paints
+  • Crystalline silica from bricks, cement, and masonry
+  • Arsenic and chromium from pressure-treated lumber
+  • Wood dust from hardwoods and softwoods
+
+To reduce exposure:
+• Work in a well-ventilated area
+• Use a dust collection system when possible
+• Wear an approved respirator or dust mask
+• Don't eat, drink, or smoke in the work area
+• Wash hands and face thoroughly after use
+
+
+================================================================================
+BATTERY AND CHARGER SAFETY
+================================================================================
+
+BATTERY WARNINGS
+• DO NOT disassemble, open, crush, bend, puncture, or shred the battery.
+• DO NOT expose to fire, excessive heat, or microwave ovens.
+• DO NOT immerse in water or other liquids.
+• DO NOT short-circuit the battery terminals.
+• DO NOT modify or attempt to repair the battery.
+• Dispose of used batteries according to local regulations.
+• Supervise children around batteries and tools.
+• Use only with Freedom chargers and tools.
+
+BATTERY CARE
+• Keep batteries away from metal objects when not in use (paper clips, coins, 
+  keys, nails, screws, etc.). These can short the terminals and cause burns or 
+  fire.
+• DO NOT PUT BATTERIES IN FIRE OR EXPOSE TO HIGH HEAT - they may explode.
+• Store batteries below 50°C (122°F).
+• Battery liquid is corrosive. If it contacts skin, wash immediately with soap 
+  and water. If it contacts eyes, flush with water for 15 minutes and seek 
+  medical attention.
+
+CHARGER SAFETY
+• Read all instructions before using the charger.
+• DO NOT expose charger to rain or snow.
+• Pull by the plug, not the cord, when disconnecting.
+• Keep the cord away from foot traffic and heat sources.
+• Use an extension cord only if absolutely necessary.
+• Use only the supplied Freedom charger.
+• Charge only one battery at a time.
+• DO NOT attempt to open the charger.
+• DO NOT incinerate batteries - they can explode.
+• DO NOT charge in explosive atmospheres.
+
+
+================================================================================
+UNDERSTANDING RISKS
+================================================================================
+
+Even when used properly, some risks cannot be eliminated:
+
+1. Lung damage if you don't wear an effective dust mask
+2. Hearing damage if you don't wear hearing protection
+3. Health problems from vibration if the tool is used for extended periods 
+   without breaks
+4. Eye injury from flying debris if you don't wear safety glasses
+5. Cuts and abrasions from contact with spinning accessories
+
+⚠ ELECTROMAGNETIC FIELD WARNING: This tool produces an electromagnetic field 
+during operation. If you have a pacemaker or other medical implant, consult 
+your doctor and the implant manufacturer before using this tool.
+
+
+================================================================================
+GETTING STARTED
+================================================================================
+
+CHARGING THE BATTERY (FIRST TIME USE)
+--------------------------------------
+
+Before using your rotary tool for the first time, fully charge the battery:
+
+1. Insert the battery pack into the charger stand. Make sure the + and - 
+   terminals align correctly.
+
+2. Plug the charger into a standard wall outlet (100-240V AC).
+
+3. The indicator light will turn RED, showing the battery is charging.
+
+4. When fully charged (3-5 hours), the indicator light will turn GREEN.
+
+5. Unplug the charger from the wall outlet.
+
+6. Remove the battery from the charger.
+
+IMPORTANT CHARGING NOTES:
+• The battery reaches full capacity after 3-5 charge/discharge cycles.
+• The charger, adapter, and battery will feel warm during charging - this is 
+  normal.
+• Always unplug the charger from the wall BEFORE disconnecting the battery 
+  (fire hazard prevention).
+
+BATTERY MAINTENANCE:
+• Recharge when you notice reduced performance. Don't continue using a weak 
+  battery.
+• Recharge at least every 6 months, even if not in use.
+• DON'T overcharge. Remove the battery after 5 hours maximum.
+• DON'T recharge immediately after charging. Let the battery rest for at least 
+  15 minutes.
+• If storing the tool for a long time, recharge the battery before use.
+• If charging multiple batteries, wait at least 15 minutes between charges.
+• NEVER leave a charging battery unattended.
+
+
+INSTALLING THE BATTERY
+-----------------------
+
+1. Align the battery pack with the battery slot on the tool handle.
+2. Slide the battery in until it clicks into place.
+3. To remove: Press both battery release buttons and pull the battery out.
+
+
+================================================================================
+COLLETS AND ACCESSORIES
+================================================================================
+
+UNDERSTANDING COLLETS
+---------------------
+
+Your Freedom Rotary Tool comes with 3 different collet sizes. Collets are the 
+metal sleeves that hold accessories in place. Each collet is designed for a 
+specific accessory shaft diameter.
+
+IMPORTANT: Always use the correct collet size for your accessory. Never force 
+a larger shaft into a smaller collet - this can damage both the collet and 
+the tool.
+
+
+CHANGING COLLETS
+----------------
+
+⚠ ALWAYS REMOVE THE BATTERY before changing collets or accessories!
+
+1. Remove the battery from the tool.
+
+2. Press and hold the spindle lock button.
+
+3. While holding the spindle lock, use the spanner wrench to loosen the chuck 
+   nut by turning it counterclockwise.
+
+4. Remove the chuck nut completely.
+
+5. Remove the old collet from the spindle.
+
+6. Select the correct size collet for your accessory.
+
+7. Insert the new collet into the spindle.
+
+8. Thread the chuck nut back onto the spindle (hand-tight only for now).
+
+9. Insert your accessory to verify the collet size is correct.
+
+10. Remove the accessory, then proceed to install it properly (see below).
+
+⚠ NEVER press the spindle lock button while the tool is running. This will 
+damage the tool.
+
+
+================================================================================
+INSTALLING ACCESSORIES
+================================================================================
+
+⚠ ALWAYS REMOVE THE BATTERY before installing or removing accessories!
+
+⚠ INSPECT ACCESSORIES before each use. Never use cracked, chipped, or damaged 
+accessories.
+
+
+GENERAL ACCESSORY INSTALLATION
+-------------------------------
+
+1. Remove the battery from the tool.
+
+2. Select the correct collet size for your accessory shaft.
+
+3. Press and hold the spindle lock button.
+
+4. While holding the spindle lock, loosen the chuck nut with the spanner 
+   wrench.
+
+5. Insert the accessory shaft as far as possible into the collet (usually 
+   about 3/4" or until it stops).
+
+6. While still holding the spindle lock, tighten the chuck nut firmly with 
+   the spanner wrench. Don't overtighten.
+
+7. Release the spindle lock.
+
+8. Tug on the accessory to make sure it's secure.
+
+
+INSTALLING CUTTING WHEELS
+--------------------------
+
+Cutting wheels require special installation using the cutting wheel fixture:
+
+1. Remove the battery.
+
+2. Install the cutting wheel fixture (mandrel) into the collet as described 
+   above.
+
+3. Slide the cutting wheel onto the mandrel shaft.
+
+4. Thread the screw onto the mandrel to secure the wheel.
+
+5. Tighten the screw firmly, but DO NOT overtighten - this can crack the 
+   wheel.
+
+⚠ CUTTING WHEELS ARE FRAGILE. Handle with care and inspect for cracks before 
+each use.
+
+
+INSTALLING FELT POLISHING WHEELS
+---------------------------------
+
+1. Thread the felt wheel directly onto the screw mandrel.
+
+2. Tighten fully until the wheel seats against the collar.
+
+3. Install the mandrel into the collet as described above.
+
+
+INSTALLING SANDING ROLLS
+-------------------------
+
+1. Insert the screw mandrel into the sanding rubber.
+
+2. Loosen the screw to allow the rubber to relax.
+
+3. Slide the sanding roll over the rubber.
+
+4. Tighten the screw - this expands the rubber and secures the sanding roll.
+
+5. Install the mandrel into the collet as described above.
+
+
+INSTALLING DRILL BITS
+----------------------
+
+1. Select the correct collet size for your drill bit shaft.
+
+2. Insert the drill bit as far as possible into the collet.
+
+3. Tighten securely.
+
+4. Make sure the bit is straight and secure before use.
+
+
+================================================================================
+OPERATING YOUR ROTARY TOOL
+================================================================================
+
+BEFORE EACH USE - SAFETY CHECK
+-------------------------------
+
+□ Inspect the accessory for damage, cracks, or wear
+□ Make sure the accessory is properly installed and secure
+□ Check that the battery is fully charged and locked in place
+□ Verify the speed setting is appropriate for the accessory
+□ Wear safety glasses, dust mask, hearing protection, and gloves
+□ Secure your workpiece with clamps
+
+
+TURNING THE TOOL ON AND OFF
+----------------------------
+
+TO TURN ON:
+1. Set the variable speed controller to the desired speed (start low).
+2. Slide the switch forward to the "I" position.
+3. The tool will start spinning at the selected speed.
+
+TO TURN OFF:
+1. Slide the switch backward to the "O" position.
+2. Wait for the accessory to come to a complete stop before setting down.
+
+⚠ NEVER put the tool down while the accessory is still spinning!
+
+
+VARIABLE SPEED CONTROL
+-----------------------
+
+Your rotary tool has a variable speed dial that adjusts from approximately 
+2,000 to 18,000 RPM.
+
+SPEED SELECTION GUIDE:
+
+LOW SPEEDS (2,000 - 8,000 RPM):
+• Large diameter accessories
+• Soft materials (plastic, soft wood)
+• Polishing operations
+• Wire brushing
+• When you need more control
+
+MEDIUM SPEEDS (8,000 - 15,000 RPM):
+• General purpose work
+• Sanding operations
+• Grinding soft metals
+• Shaping wood
+
+HIGH SPEEDS (15,000 - 18,000 RPM):
+• Small diameter accessories
+• Hardwoods
+• Hard metals (steel, iron)
+• Cutting operations
+• Drilling
+• Fine detail work
+
+GENERAL RULE: Start at a lower speed and increase as needed. Higher speeds 
+generate more heat.
+
+
+RUNNING IN NEW ACCESSORIES
+---------------------------
+
+When installing a new accessory:
+
+1. Install the accessory as described above.
+
+2. Remove the battery and reinstall it.
+
+3. Set the speed to maximum.
+
+4. Turn on the tool and let it run at full speed for 1 minute WITHOUT 
+   contacting any material.
+
+5. Stand to the side during this test run.
+
+6. If the accessory wobbles, vibrates excessively, or makes unusual noises, 
+   turn off immediately and check the installation.
+
+This test ensures the accessory is properly balanced and secure.
+
+
+================================================================================
+USING YOUR ROTARY TOOL
+================================================================================
+
+GRINDING
+--------
+
+APPLICATIONS:
+• Shaping metal and other materials
+• Removing rust and corrosion
+• Deburring sharp edges
+• Smoothing welds
+• Sharpening tools
+
+TECHNIQUE:
+
+1. Install the appropriate grinding stone.
+
+2. Select medium to high speed (12,000-18,000 RPM).
+
+3. Put on safety glasses, dust mask, and gloves.
+
+4. Secure the workpiece firmly.
+
+5. Turn on the tool and let it reach full speed.
+
+6. Apply light to moderate pressure. Let the grinding stone do the work.
+
+7. Keep the tool moving to avoid creating grooves or flat spots.
+
+8. For metal grinding, work at an angle of about 15-30 degrees.
+
+9. Take breaks to let the accessory cool.
+
+TIPS:
+• Don't apply excessive pressure - this generates heat and wears the stone 
+  faster
+• Keep the tool moving in smooth, steady motions
+• For rust removal, start with coarse grit and finish with fine grit
+• Grinding generates sparks when working with metal - keep flammable materials 
+  away
+
+
+CUTTING
+-------
+
+APPLICATIONS:
+• Cutting metal rods and tubing
+• Cutting plastic and wood
+• Cutting bolts and screws
+• Detail cutting work
+
+TECHNIQUE:
+
+1. Install a cutting wheel using the cutting wheel fixture.
+
+2. Select high speed (15,000-18,000 RPM).
+
+3. Put on safety glasses, dust mask, hearing protection, and gloves.
+
+4. Secure the workpiece firmly with clamps.
+
+5. Mark your cut line clearly.
+
+6. Turn on the tool and let the wheel reach full speed.
+
+7. Position the wheel perpendicular to the material.
+
+8. Apply light, steady pressure. Let the wheel cut at its own pace.
+
+9. DO NOT force the wheel or apply side pressure.
+
+10. For thick materials, make multiple passes rather than forcing through.
+
+⚠ CUTTING WHEEL SAFETY:
+• ONLY use the edge of the wheel - never the side
+• Never use a damaged or cracked wheel
+• Support the workpiece to prevent binding
+• Stand to the side, not in line with the wheel
+• Let the wheel reach full speed before cutting
+• Don't force or twist the wheel
+
+CUTTING DIFFERENT MATERIALS:
+
+METAL:
+• Use abrasive cutting wheels
+• High speed
+• Light pressure
+• Let the wheel cool periodically
+• Support both sides of the cut to prevent binding
+
+PLASTIC:
+• Use abrasive cutting wheels
+• Medium to high speed
+• Very light pressure
+• Cut slowly to prevent melting from friction heat
+
+WOOD:
+• Use appropriate cutting accessories
+• High speed
+• Steady pressure
+• Watch for kickback near knots
+
+
+SANDING
+-------
+
+APPLICATIONS:
+• Smoothing wood and metal surfaces
+• Removing paint and finishes
+• Preparing surfaces for finishing
+• Detail sanding in tight spaces
+• Shaping and contouring
+
+TECHNIQUE:
+
+1. Install the appropriate sanding accessory.
+
+2. Select the speed based on material:
+   • Soft wood: 8,000-12,000 RPM
+   • Hard wood: 12,000-15,000 RPM
+   • Metal: 10,000-15,000 RPM
+   • Plastic: 8,000-12,000 RPM
+
+3. Put on safety glasses and dust mask.
+
+4. Secure the workpiece with clamps.
+
+5. Turn on the tool and let it reach speed.
+
+6. Contact the work surface with the sanding accessory.
+
+7. Move the tool in smooth, steady motions.
+
+8. Don't apply excessive pressure - let the abrasive do the work.
+
+9. Keep the tool moving to avoid creating grooves.
+
+10. For best results, start with coarse grit and work up to fine grit.
+
+SANDING ACCESSORY GUIDE:
+
+SANDING DRUMS/ROLLS:
+• Good for inside curves and contours
+• Available in various grits
+• Replace when worn smooth
+
+SANDING DISCS:
+• Good for flat surfaces and outside curves
+• Can reach into tight spaces
+• Various grits available
+
+FLAP WHEELS:
+• Good for contoured surfaces
+• Conform to irregular shapes
+• Long-lasting
+
+TIPS:
+• Always sand with the grain on wood
+• Start with coarser grit and progress to finer
+• Keep the tool moving to avoid burn marks
+• Change sanding accessories when they become clogged or worn
+• Use dust extraction or work in a well-ventilated area
+
+
+POLISHING
+---------
+
+APPLICATIONS:
+• Polishing metal to a high shine
+• Buffing plastic surfaces
+• Restoring tarnished metal
+• Cleaning and brightening surfaces
+• Removing fine scratches
+
+TECHNIQUE:
+
+1. Install a felt polishing wheel or cloth buff.
+
+2. Select low to medium speed (5,000-10,000 RPM).
+
+3. Put on safety glasses.
+
+4. Apply polishing compound to the wheel (if using).
+
+5. Turn on the tool.
+
+6. Gently touch the polishing wheel to the workpiece.
+
+7. Use light pressure and keep the tool moving.
+
+8. Work in small sections.
+
+9. Buff to desired shine.
+
+POLISHING TIPS:
+• Lower speeds work better for polishing
+• Too much pressure generates heat and can damage the finish
+• Keep the wheel moving to avoid creating swirl marks
+• For best results, use progressively finer polishing compounds
+• Clean the workpiece between polishing stages
+• Secure loose polishing wheel strings before use
+
+POLISHING COMPOUNDS:
+• Coarse compound: Initial polishing, removing oxidation
+• Medium compound: General polishing
+• Fine compound: Final buffing to high shine
+
+
+WIRE BRUSHING
+-------------
+
+APPLICATIONS:
+• Removing rust and corrosion
+• Cleaning metal surfaces
+• Removing paint and scale
+• Preparing surfaces for welding or painting
+• Cleaning between tiles or in grooves
+
+TECHNIQUE:
+
+1. Install a wire brush accessory.
+
+2. Select medium speed (10,000-15,000 RPM).
+
+3. Put on safety glasses, face shield, gloves, and long sleeves.
+
+4. Secure the workpiece.
+
+5. Turn on the tool.
+
+6. Apply light to moderate pressure.
+
+7. Keep the tool moving to avoid creating grooves.
+
+8. Let the wire bristles do the work.
+
+⚠ WIRE BRUSH SAFETY:
+• Wire bristles can break off and fly at high speed
+• Always wear full protective equipment including face shield
+• Don't overload the brush with excessive pressure
+• Wire wheels expand in diameter during use
+• Inspect brushes before each use for loose or broken wires
+• Never exceed the rated speed of the brush
+
+WIRE BRUSH TYPES:
+
+STEEL WIRE:
+• For ferrous metals (iron, steel)
+• Aggressive cleaning
+• Rust removal
+
+BRASS WIRE:
+• For softer metals (aluminum, copper, brass)
+• Less aggressive
+• Won't scratch soft metals
+
+STAINLESS STEEL WIRE:
+• For stainless steel and other metals
+• Won't contaminate stainless steel
+
+
+DRILLING
+--------
+
+APPLICATIONS:
+• Drilling small holes in wood, plastic, and soft metals
+• Detail work and craft projects
+• Circuit board work
+• Model making
+
+TECHNIQUE:
+
+1. Install the appropriate drill bit.
+
+2. Select high speed (15,000-18,000 RPM).
+
+3. Put on safety glasses.
+
+4. Mark the drilling location.
+
+5. Secure the workpiece firmly.
+
+6. Turn on the tool and let it reach full speed.
+
+7. Position the bit at the mark.
+
+8. Apply steady, light pressure. Let the bit cut at its own pace.
+
+9. For deep holes, periodically withdraw the bit to clear chips.
+
+10. Reduce pressure as the bit breaks through to prevent splintering.
+
+DRILLING TIPS:
+• Start with a small pilot hole, then enlarge if needed
+• Use a center punch on metal to prevent bit wandering
+• For plastic, reduce speed to prevent melting
+• Don't force the bit - this can cause breakage
+• Keep bits sharp for best results
+• Support thin materials to prevent flexing
+
+
+================================================================================
+OPERATING TIPS FOR BEST RESULTS
+================================================================================
+
+DO:
+✓ Use the correct accessory for the material and task
+✓ Start with lower speed and increase as needed
+✓ Secure your workpiece firmly with clamps
+✓ Wear appropriate safety equipment every time
+✓ Let accessories reach full speed before contacting material
+✓ Use light to moderate pressure
+✓ Keep the tool moving to avoid creating grooves or burn marks
+✓ Take breaks to let accessories cool
+✓ Inspect accessories before each use
+✓ Maintain a firm grip on the tool
+
+DON'T:
+✗ Force the tool - let accessories work at their own pace
+✗ Use damaged, cracked, or worn accessories
+✗ Apply excessive pressure
+✗ Use accessories rated for lower speeds than your tool
+✗ Press the spindle lock while the tool is running
+✗ Put the tool down while accessories are still spinning
+✗ Use oversized accessories
+✗ Operate without safety equipment
+✗ Work with a low battery (reduced performance and control)
+✗ Use the side of cut-off wheels for grinding
+
+
+MAXIMIZING BATTERY LIFE
+------------------------
+
+• Fully charge before first use
+• Don't completely drain the battery
+• Recharge when you notice reduced performance
+• Use the correct speed for the task (higher speeds drain faster)
+• Don't force the tool - this drains the battery faster
+• Store the battery in a cool, dry place
+• Recharge every 6 months if not in use
+• Remove battery if storing tool for extended periods
+
+
+PREVENTING ACCESSORY DAMAGE
+----------------------------
+
+• Use the correct accessory for the material
+• Don't force or apply excessive pressure
+• Let accessories reach full speed before use
+• Don't exceed rated speeds
+• Store accessories properly when not in use
+• Keep accessories clean and free of debris
+• Replace worn accessories promptly
+
+
+GETTING THE BEST RESULTS
+-------------------------
+
+• Match the accessory to the task
+• Use appropriate speeds for the material
+• Keep accessories sharp and in good condition
+• Work in a well-lit area
+• Take your time - rushing leads to mistakes
+• Practice on scrap material first
+• Keep the tool and accessories clean
+
+
+================================================================================
+ACCESSORY GUIDE
+================================================================================
+
+GRINDING STONES
+
+TYPES:
+• Aluminum oxide: General purpose, wood and metal
+• Silicon carbide: Hard materials, glass, stone
+• Diamond: Very hard materials, ceramics, glass
+
+SHAPES:
+• Cylindrical: Flat surfaces, edges
+• Cone: Inside curves, angles
+• Spherical: Contours, concave surfaces
+• Wheel: Flat surfaces, edges
+
+APPLICATIONS:
+• Shaping and smoothing metal
+• Sharpening tools and blades
+• Deburring edges
+• Removing rust
+• Smoothing welds
+
+
+CUTTING WHEELS
+
+TYPES:
+• Reinforced abrasive wheels for metal
+• Thin cut-off wheels for precision work
+
+APPLICATIONS:
+• Cutting metal rods and tubing
+• Cutting bolts and screws
+• Cutting plastic and thin wood
+• Detail cutting work
+
+IMPORTANT: Only use the edge of cutting wheels, never the side.
+
+
+SANDING ACCESSORIES
+
+TYPES:
+• Sanding drums/rolls: Various grits
+• Sanding discs: Various grits
+• Flap wheels: Various grits
+
+GRIT GUIDE:
+• Coarse (40-60): Heavy material removal
+• Medium (80-120): General sanding
+• Fine (150-220): Smoothing and finishing
+• Extra Fine (320+): Final finishing
+
+APPLICATIONS:
+• Smoothing wood and metal
+• Removing paint and finishes
+• Preparing surfaces
+• Detail sanding
+
+
+POLISHING ACCESSORIES
+
+TYPES:
+• Felt wheels: For use with polishing compound
+• Cloth buffs: Final buffing
+• Wool wheels: General polishing
+
+APPLICATIONS:
+• Polishing metal to high shine
+• Buffing plastic
+• Removing tarnish
+• Restoring surfaces
+
+
+WIRE BRUSHES
+
+TYPES:
+• Steel wire: Ferrous metals
+• Brass wire: Soft metals
+• Stainless steel wire: Stainless steel
+
+SHAPES:
+• Cup brushes: Flat surfaces
+• End brushes: Tight spaces, edges
+• Wheel brushes: Large surfaces
+
+APPLICATIONS:
+• Rust removal
+• Paint stripping
+• Surface cleaning
+• Preparing for welding or painting
+
+
+DRILL BITS
+
+TYPES:
+• High-speed steel (HSS): Wood, plastic, soft metals
+• Carbide: Hard materials
+• Diamond: Very hard materials
+
+APPLICATIONS:
+• Drilling small holes
+• Detail work
+• Craft projects
+• Circuit board work
+
+
+SPECIALTY ACCESSORIES
+
+DIAMOND BITS:
+• For engraving glass, ceramic, stone
+• For grinding very hard materials
+• Long-lasting
+
+STRUCTURED TOOTH BITS:
+• For wood carving
+• For shaping soft materials
+• Fast material removal
+
+
+================================================================================
+MAINTENANCE AND CLEANING
+================================================================================
+
+⚠ ALWAYS REMOVE THE BATTERY BEFORE MAINTENANCE OR CLEANING!
+
+AFTER EACH USE:
+• Wipe the tool with a dry or slightly damp cloth
+• Remove dust and debris from the ventilation slots
+• Check the collet and chuck for debris
+• Inspect accessories for damage or wear
+• Remove accessories if storing for more than a few days
+
+REGULAR MAINTENANCE:
+• Keep the ventilation slots clean and free of dust
+• Use compressed air to blow out dust from the motor area
+• Inspect the power cord on the charger for damage
+• Check that the spindle lock operates smoothly
+• Check that the chuck nut tightens properly
+• Inspect collets for wear or damage
+
+CLEANING:
+• Use only a dry or slightly damp cloth
+• NEVER use water, solvents, gasoline, paint thinner, or harsh chemicals
+• Don't spray cleaners directly on the tool
+• Clean the chuck and collets with a soft brush
+• Remove built-up debris from accessories
+
+COLLET AND CHUCK CARE:
+• Keep collets clean and free of debris
+• Inspect collets for wear or damage
+• Replace worn collets
+• Don't overtighten the chuck nut
+• Clean threads periodically
+
+STORAGE:
+• Store in a cool, dry place
+• Remove the battery if storing for more than 30 days
+• Keep out of reach of children
+• Store in the original case or a secure location
+• Store accessories separately in a safe container
+• Keep accessories organized by type
+
+REPAIRS:
+• For your safety, all repairs must be performed by an authorized Freedom 
+  service center
+• Use only genuine Freedom replacement parts
+• Never attempt to disassemble the tool or battery pack
+
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Tool won't start
+□ Check that battery is fully charged and installed correctly
+□ Make sure the switch moves freely
+□ Try a different battery if available
+□ Let the tool cool down if it's been used heavily
+□ Check that the switch is in the OFF position before inserting battery
+
+PROBLEM: Tool runs but has no power
+□ Recharge the battery
+□ Check that you're using the correct speed setting
+□ Make sure the accessory is properly installed
+□ Use a sharp accessory - dull accessories require more power
+□ Don't apply excessive pressure
+
+PROBLEM: Tool vibrates excessively
+□ Check that accessory is properly installed and secure
+□ Tighten the chuck nut
+□ Replace bent or damaged accessory
+□ Make sure the correct collet size is being used
+□ Check that accessory is properly seated in the collet
+
+PROBLEM: Accessory won't stay secured
+□ Tighten the chuck nut more firmly (but don't overtighten)
+□ Make sure you're using the correct collet size
+□ Check that the collet is properly seated
+□ Clean debris from the collet and chuck
+□ Replace worn collet
+
+PROBLEM: Accessory wobbles during operation
+□ Make sure accessory is fully inserted into collet
+□ Check that the correct collet size is being used
+□ Tighten chuck nut securely
+□ Replace bent or damaged accessory
+□ Check that collet is not damaged
+
+PROBLEM: Spindle lock won't engage
+□ Make sure tool is completely stopped
+□ Clean debris from spindle lock mechanism
+□ Don't force the spindle lock
+□ Contact service center if problem persists
+
+PROBLEM: Tool overheats
+□ Let tool cool for 15 minutes
+□ Don't apply excessive pressure
+□ Use a sharp accessory
+□ Take breaks during heavy use
+□ Keep ventilation slots clear
+□ Use appropriate speed for the task
+
+PROBLEM: Battery drains quickly
+□ Fully charge the battery
+□ Battery may be old - consider replacement
+□ Use sharp accessories
+□ Don't force the tool
+□ Use appropriate speed for the task
+□ Let battery cool between charges
+
+PROBLEM: Accessory breaks during use
+□ Don't apply excessive pressure
+□ Use correct accessory for the material
+□ Don't exceed rated speed of accessory
+□ Inspect accessories before use
+□ Replace worn accessories promptly
+□ Don't use side of cut-off wheels
+
+PROBLEM: Poor cutting or grinding performance
+□ Replace dull or worn accessory
+□ Increase the speed setting
+□ Recharge the battery
+□ Use the correct accessory for the material
+□ Don't apply excessive pressure
+□ Let the accessory work at its own pace
+
+
+================================================================================
+SPECIFICATIONS SUMMARY
+================================================================================
+
+Model:                       FT1004
+Type:                        Cordless Rotary Tool
+Voltage:                     18V DC
+Battery:                     Lithium-Ion
+No-Load Speed:               Up to 25,000 RPM
+Variable Speed Range:        2,000 - 18,000 RPM
+Collet Sizes:                3 sizes included
+Charging Time:               3-5 hours
+Charger Input:               100-240V AC, 50/60Hz
+Weight (with battery):       Approx. 2.8 lbs
+
+
+================================================================================
+DISPOSAL AND RECYCLING
+================================================================================
+
+♻ DO NOT throw this tool or batteries in household trash!
+
+Electronic waste and batteries contain materials that can harm the environment.
+
+Please recycle:
+• Take to a local recycling center that accepts electronics
+• Contact your local waste management authority for collection information
+• Return to a Freedom Tools dealer that accepts old tools
+• Check www.call2recycle.org for battery recycling locations
+
+
+================================================================================
+SYMBOLS AND LABELS
+================================================================================
+
+The following symbols may appear on your tool:
+
+⚠  Warning symbol - Read manual
+V  Volts
+~  Alternating current
+═  Direct current
+↻  Recycling symbol
+🔊 Wear hearing protection
+👓 Wear eye protection
+🧤 Wear gloves
+😷 Wear dust mask
+⚡ Electric shock hazard
+🔥 Fire hazard
+
+
+================================================================================
+
+FREEDOM TOOLS - Built for Performance, Designed for You
+
+Thank you for choosing Freedom!
+
+© 2026 Freedom Tools. All rights reserved.
+
+================================================================================
+
